@@ -1,0 +1,1 @@
+# KANE-GRFX-Gettext
