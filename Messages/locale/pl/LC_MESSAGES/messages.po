@@ -1,5 +1,5 @@
 # Polish translations for PACKAGE package
-# Polskie t≥umaczenia dla pakietu PACKAGE.
+# Polskie t≈Çumaczenia dla pakietu PACKAGE.
 # Copyright (C) 2023 THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # <EMAIL@ADDRESS>, 2023.
