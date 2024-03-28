@@ -1,0 +1,1997 @@
+# Italian translations for KANEGRFX package.
+# Copyright (C) 2023 Kane International Ltd.
+# This file is distributed under the same license as the KANEGRFX package.
+# <nigel.winterbottom@kane.co.uk>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-24 11:14+0100\n"
+"PO-Revision-Date: 2019-05-20 16:00+0100\n"
+"Last-Translator: <EMAIL@ADDRESS>\n"
+"Language-Team: English (British)\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "None"
+msgstr ""
+
+#.
+#. ------------------------------------------------------------------
+#. These Messages SHOULD NOT to be translated (except perhaps for Chinese).
+msgid "Kelvin"
+msgstr ""
+
+msgid "Celsius"
+msgstr ""
+
+msgid "Fahrenheit"
+msgstr ""
+
+msgid "Mittelwert"
+msgstr ""
+
+msgid "UNI10389-1"
+msgstr ""
+
+msgid "DTHA2"
+msgstr ""
+
+msgid "Self Test Report"
+msgstr ""
+
+#. MAGIC MSG TO GENERATE EMPTY STRING
+msgid "*"
+msgstr ""
+
+#.
+#. STARTUP TYPEWRITER TEXT
+#. ------------------------------------------------------------------
+#. EEPROM BLANK (Maxlen=12)
+msgid "BLANK"
+msgstr ""
+
+#.
+#. INITIAL PURGE/ZERO SCREEN
+#. ------------------------------------------------------------------
+#. This message appears in 2 areas (Big font Main screen (big font) and Tabbed Message (small font).
+msgid "ANALYSER"
+msgstr "ANALIZZATORE"
+
+msgid "ANALYSER PURGING"
+msgstr "PULIZIA SENSORI"
+
+msgid "ANALYSER ZERO"
+msgstr "AZZERAMENTO SENSORI"
+
+msgid "SHUTDOWN PURGE"
+msgstr "PULIZIA SPEGNIMENTO"
+
+#. Instruction to User for Successful Purge (Maxlen=32)
+msgid "FLOW FRESH AIR"
+msgstr "FORNIRE ARIA FRESCA"
+
+#. CO Sensor Purge (Maxlen=19)
+msgid "EXCESSIVE CO"
+msgstr "CO ECCESSIVO"
+
+msgid "PURGING CO SENSOR"
+msgstr "PULENDO SENSORE CO"
+
+#.
+#. HOME SCREEN
+#. ------------------------------------------------------------------
+#. This message appears in 1 area (Small font).
+msgid "Operated By:"
+msgstr "Eseguito da:"
+
+#.
+#. MAIN Menu
+#. ------------------------------------------------------------------
+#. Home Menu Title (Maxlen=17)
+msgid "HOME MENU"
+msgstr "MENU PRINCIPALE"
+
+#. Home Menu Items (Maxlen=16)
+msgid "STATUS"
+msgstr "STATO"
+
+msgid "MEASUREMENT"
+msgstr "MISURARE"
+
+msgid "SETUP"
+msgstr "IMPOSTAZIONI"
+
+msgid "SETTINGS"
+msgstr "SETTAGGI"
+
+msgid "VIEW LOGS"
+msgstr "VEDI REGISTRI"
+
+msgid "ON-SCREEN TRENDS"
+msgstr "GRAFICI"
+
+msgid "SERVICE"
+msgstr "SERVICE"
+
+msgid "TOOLS"
+msgstr "STRUMENTI"
+
+#.
+#. SETTINGS MENU
+#. ------------------------------------------------------------------
+#. Small Font Menu Item (Maxlen=32)
+msgid "Efficiency"
+msgstr "Rendimento"
+
+msgid "Gas Units"
+msgstr "Unità di misura"
+
+msgid "Reference O2"
+msgstr "Riferimento O2"
+
+msgid "Reference O2 (NO)"
+msgstr "Riferimento O2 (NO)"
+
+msgid "Pitot Tube Factor"
+msgstr "Fattore Tubo Pitot"
+
+#. [ITALIAN ONLY] Small Font Menu Item (Maxlen=32)
+msgid "Fuel Flow"
+msgstr "Portata Combustibile"
+
+#.
+#. SETUP Menu
+#. ------------------------------------------------------------------
+#. Setup Menu Item (Maxlen=24)
+msgid "Language"
+msgstr "Lingua"
+
+msgid "Operational Mode"
+msgstr "Modo"
+
+msgid "Confirm Delete Logs"
+msgstr "Conferma Cancella?"
+
+msgid "Operating Region"
+msgstr "Nazione"
+
+msgid "Main Purge"
+msgstr "Pulizia principale"
+
+msgid "Alarms"
+msgstr "Allarmi"
+
+msgid "Alarm Levels"
+msgstr "Livelli di allarme"
+
+msgid "Manage LINK Devices"
+msgstr "Gestione strumenti LINK"
+
+msgid "User Defined Fuels"
+msgstr "Combustibile personalizzato"
+
+msgid "FGA Mode"
+msgstr "Mode FGA"
+
+msgid "EGA Mode"
+msgstr "Mode EGA"
+
+msgid "CHANGING OPERATION MODE WILL DELETE LOGGED DATA"
+msgstr ""
+
+#. Setup Operator Menu Items (Maxlen=32)
+msgid "Operator Detail"
+msgstr "Dettagli Operatore"
+
+msgid "Operator"
+msgstr "Operatore"
+
+msgid "Company"
+msgstr "Azienda"
+
+msgid "Addr Line 1"
+msgstr "Ind. Linea 1"
+
+msgid "Addr Line 2"
+msgstr "Ind. Linea 2"
+
+msgid "City/Town"
+msgstr "Città"
+
+msgid "Post Code"
+msgstr "Codice Postale"
+
+msgid "Telephone"
+msgstr "Telefono"
+
+msgid "Mobile"
+msgstr "Cellulare"
+
+msgid "Web/Email"
+msgstr "Web/Email"
+
+#.
+#. MEASUREMENT Menu
+#. ------------------------------------------------------------------
+#. Menu Item (Maxlen=32)
+#. Shortform label. (Maxlen=3)
+msgid "Airflow"
+msgstr "Portata"
+
+msgid "FLO"
+msgstr "AFL"
+
+msgid "Airspeed"
+msgstr "Velocità"
+
+msgid "ASP"
+msgstr "VEL"
+
+msgid "Combustion"
+msgstr "Combustione"
+
+msgid "COMB."
+msgstr "COMB."
+
+msgid "Exhaust Gas"
+msgstr "Gas Esausto"
+
+msgid "Exhaust Gas SF"
+msgstr "Gas Esausto"
+
+msgid "Flue Gas"
+msgstr "Fumi"
+
+msgid "FlueGas"
+msgstr "Fumi"
+
+msgid "Draught"
+msgstr "Tiraggio"
+
+msgid "Pressure"
+msgstr "Pressione"
+
+msgid "Vacuum"
+msgstr ""
+
+msgid "Temperature"
+msgstr "Temperatura"
+
+msgid "Pressure & Temp"
+msgstr "Pressione & Temp."
+
+msgid "Prs & Temp"
+msgstr "Prs & Temp"
+
+msgid "Abgaswegemessung"
+msgstr ""
+
+msgid "Ringspaltmessung"
+msgstr ""
+
+msgid "HVACR_ID"
+msgstr "HVACR"
+
+msgid "A/C"
+msgstr ""
+
+msgid "Wireless Mode: APP Mode"
+msgstr "Wireless: App"
+
+msgid "Wireless Mode: LINK Mode"
+msgstr "Wireless: LINK"
+
+msgid "Reading Layout"
+msgstr "Zoom"
+
+msgid "Large"
+msgstr "L"
+
+msgid "Medium"
+msgstr "M"
+
+msgid "Small"
+msgstr "S"
+
+msgid "Reading Size: Large"
+msgstr "Zoom:L"
+
+msgid "Reading Size: Medium"
+msgstr "Zoom:M"
+
+msgid "Reading Size: Small"
+msgstr "Zoom:S"
+
+#.
+#. LOGS Menu
+#. LOGS Menu Items (Maxlen=32)
+#. ------------------------------------------------------------------
+msgid "All"
+msgstr "All"
+
+msgid "Delete Logs"
+msgstr "Cancella Reg."
+
+msgid "Graph Logs"
+msgstr ""
+
+#.
+#. GRAPH LOGS Menu
+#. GRAPH LOGS Menu Items (Maxlen=32)
+#. ------------------------------------------------------------------
+msgid "LOG SELECTION"
+msgstr "Seleziona Reg."
+
+msgid "Setup Trends"
+msgstr "Imposta Trends"
+
+msgid "View Trend A"
+msgstr "Vedi Trend A"
+
+msgid "View Trend B"
+msgstr "Vedi Trend B"
+
+msgid "View Trend C"
+msgstr "Vedi Trend C"
+
+msgid "View Trend D"
+msgstr "Vedi Trend D"
+
+msgid "View Dual Trend"
+msgstr "Vedi doppio Trand"
+
+msgid "View Quad Trend"
+msgstr "Vedi quattro Trend"
+
+#.
+#. SETUP TRENDS Menu
+#. ------------------------------------------------------------------
+#. SETUP TRENDS Menu Title (Maxlen=17)
+msgid "MT_SETUP TRENDS"
+msgstr "Impostazione Trend"
+
+msgid "Trend A"
+msgstr "Trend A"
+
+msgid "Trend B"
+msgstr "Trend B"
+
+msgid "Trend C"
+msgstr "Trend C"
+
+msgid "Trend D"
+msgstr "Trend D"
+
+#.
+#. SCREEN TRENDS Menu
+#. ONSCREEN TRENDS Menu Items (Maxlen=32)
+#. ------------------------------------------------------------------
+msgid "MT_ON-SCREEN TRENDS"
+msgstr "TREND A VIDEO"
+
+#.
+#. TOOLS Menu Items (Maxlen=32)
+#. ------------------------------------------------------------------
+msgid "Manual Air Zero"
+msgstr "Zero sensori manuale"
+
+msgid "Manual Prs Zero"
+msgstr "Zero pressione manuale"
+
+msgid "Setup Midstream Finder"
+msgstr "Imposta Centratore"
+
+msgid "Start Midstream Finder"
+msgstr "Attiva Centratore"
+
+#. SETUP - MAIN PURGE Menu Title (Maxlen=16)
+#. - MAIN PURGE Menu Items (Maxlen=32)
+#. ------------------------------------------------------------------
+msgid "Main Purge Duration"
+msgstr "Pulizia principale"
+
+msgid "Main Purge Interval"
+msgstr "Intervallo pulizia principale"
+
+msgid "Auto Zero"
+msgstr "Auto Zero"
+
+#.
+#. EXHAUST GAS RELATED TEXT
+#. ------------------------------------------------------------------
+#. Field Name (Maxlen=16)
+msgid "ID Number"
+msgstr "Numero ID"
+
+#. STATUS LINE
+#. ------------------------------------------------------------------
+#. STATUS Line Item (Maxlen=20)
+msgid "PAUSED"
+msgstr "Pausa"
+
+#. STATUS Page
+#. ------------------------------------------------------------------
+#. STATUS Page Item (Maxlen=20)
+msgid "Model"
+msgstr "Modello"
+
+msgid "Software"
+msgstr "Software"
+
+msgid "Serial Nº"
+msgstr "N° di serie"
+
+msgid "Asset Nº"
+msgstr "Asset N°"
+
+msgid "Battery (Charging)"
+msgstr "Batteria (in Carica)"
+
+msgid "Sensors Fitted"
+msgstr "Sensori Instal."
+
+#. STATUS Page Item (Calibration Due in days) (Maxlen=14)
+msgid "CAL DUE"
+msgstr "DATA CAL."
+
+msgid "CAL OVERDUE"
+msgstr "CAL. SCAD."
+
+#. STATUS Page Item (Wireless as in Radio. Don't mention Bluetooth) (Maxlen=12)
+msgid "WIRELESS"
+msgstr "WIRELESS"
+
+#.
+#. SECURITY PIN TEXT
+#. ------------------------------------------------------------------
+#. Menu & Title Items (Maxlen=20)
+msgid "PIN Code"
+msgstr "Codice PIN"
+
+msgid "New PIN Code"
+msgstr "Nuovo Codice PIN"
+
+msgid "Enter Security PIN"
+msgstr "Inserire Codice PIN"
+
+msgid "Set Security PIN"
+msgstr "Imposta PIN sicurezza"
+
+msgid "Change Security PIN"
+msgstr "Cambia PIN sicurezza"
+
+#.
+#. INSTALLATION
+#. ------------------------------------------------------------------
+#. Edit Item (Maxlen=32)
+msgid "CONFIRM LANGUAGE"
+msgstr "CONFERMA LINGUA"
+
+msgid "CONFIRM OPERATING REGION"
+msgstr "CONFERMA REGIONE"
+
+#. ------------------------------------------------------------------
+#.
+#. EFFICIENCY Edit
+#. ------------------------------------------------------------------
+#. NET/GROSS (EFFICIENCY) (Maxlen=12)
+msgid "Net"
+msgstr "Netta"
+
+msgid "Gross"
+msgstr "Lorda"
+
+#. CONDENSING (EFFICIENCY) (Maxlen=20)
+msgid "Net Condensing"
+msgstr "Netta a condensazione"
+
+msgid "Gross Condensing"
+msgstr "Lorda a condensazione"
+
+#.
+#. SELECT PRINT DEVICE SUBMENU
+#. ------------------------------------------------------------------
+#. Title  (Maxlen=32)
+msgid "Select Print Device"
+msgstr "Seleziona device di stampa"
+
+msgid "Printer"
+msgstr "Stampante"
+
+msgid "IRP2/IRP3"
+msgstr "IRP2/IRP3"
+
+msgid "KANE APP"
+msgstr "KANE APP"
+
+msgid "USB"
+msgstr "USB"
+
+#.
+#. REPORT SELECTION Edit
+#. ------------------------------------------------------------------
+#. REPORT NUMBER Edit Item  (Will be followed by UPPER or LOWER) (Maxlen=20)
+msgid "Report Nº"
+msgstr "Report N°"
+
+msgid "Report Nº Lower"
+msgstr "Rapporto N° Inferiore"
+
+msgid "Report Nº Upper"
+msgstr "Rapporto N° Superiore"
+
+#.
+#. TRENDLINES Edit
+#. ------------------------------------------------------------------
+#. TRENDLINES Edit Item (Maxlen=32)
+msgid "Line"
+msgstr "Linea"
+
+msgid "Line Colour"
+msgstr "Colore Linea"
+
+msgid "Y Axis Limit"
+msgstr "Limite Asse Y"
+
+msgid "Y Axis Limit Lower"
+msgstr "Limite Inferiore Asse Y"
+
+msgid "Y Axis Limit Upper"
+msgstr "Limite Superiore Asse Y"
+
+#.
+#. TRENDLINES DISPLAY
+#. ------------------------------------------------------------------
+#. TRENDTYPE  (Maxlen=32)
+msgid "Trend"
+msgstr "Andamento"
+
+msgid "Trend Type"
+msgstr "Tipo di Andamento"
+
+#. ------------------------------------------------------------------
+#. Confirm Stop / Delete (logs) question
+msgid "Confirm Delete ?"
+msgstr "Conferma Cancella?"
+
+msgid "Confirm Stop ?"
+msgstr "Confermi Stop?"
+
+#.
+#. General Phrases/Words Used in Many Places Incluing Printout
+#. ------------------------------------------------------------------
+#. Various Words for Fuel
+msgid "Fuel Type"
+msgstr "Tipo Combustibile"
+
+msgid "FuelType"
+msgstr "Tipo Comb"
+
+#. Fuel Shortform (Maxlen=4)
+msgid "FUEL"
+msgstr "COMB"
+
+msgid "Fuel"
+msgstr "Combustibile"
+
+#. Measurement Page (Maxlen=4)
+msgid "Page"
+msgstr "Pagine"
+
+msgid "Pg"
+msgstr "Pag"
+
+#. Used in choice menus YES or NO
+msgid "NO"
+msgstr "NO"
+
+msgid "YES"
+msgstr "SI"
+
+#. Used in context of an enabled/disabled state
+msgid "ON"
+msgstr "ON"
+
+msgid "OFF"
+msgstr "OFF"
+
+#. Start/Stop (An Action) (Maxlen=8)
+msgid "START"
+msgstr "INIZIA"
+
+msgid "STOP"
+msgstr "STOP"
+
+#. Date & Time (Maxlen=20)
+msgid "SET TIME"
+msgstr "IMP ORA"
+
+msgid "SET DATE"
+msgstr "IMP DATA"
+
+msgid "Adjust Date/Time"
+msgstr "Regolare Data/Ora"
+
+#. Date & Time Labels (Maxlen=8)
+msgid "Time"
+msgstr "Ora"
+
+msgid "Date"
+msgstr "Data"
+
+#. Time Format HH:MM:SS (Maxlen=8)
+msgid "HH:MM:SS"
+msgstr "HH:MM:SS"
+
+msgid "DD/MM/YY"
+msgstr "GG/MM/AA"
+
+#. General Use & Printout Throughout KANEGRFX (Maxlen=16)
+msgid "Alarm"
+msgstr "Allarme"
+
+msgid "Alarm Time"
+msgstr "Tipo Allarme"
+
+msgid "CO Alarm"
+msgstr "Allarme CO"
+
+msgid "CO Alarm Level"
+msgstr "Livello Allarme CO"
+
+msgid "Ref O2"
+msgstr "Rif O2"
+
+msgid "Ref O2(NO)"
+msgstr "Rif O2 (NO)"
+
+msgid "Simulated NO2"
+msgstr "NO2 simulato"
+
+#.
+#. READING LABELS.
+#. ------------------------------------------------------------------
+#. Calculated CO2/O2 label Minlen=1, Maxlen=4)
+msgid "O2c"
+msgstr "O2c"
+
+msgid "CO2c"
+msgstr "CO2c"
+
+#. Normalised Gas label Suffix (Minlen=1, Maxlen=1)
+msgid "n"
+msgstr "n"
+
+#. Battery Reading Shortform Label (Maxlen=3)
+msgid "BAT"
+msgstr "BAT"
+
+#. Battery Reading Label (Maxlen=8)
+msgid "BATTERY"
+msgstr "BATTERY"
+
+#. Barometer label. (Maxlen=7)
+msgid "BARO"
+msgstr "BAROM"
+
+#. Barometer Shortform label. (Maxlen=3)
+msgid "BP"
+msgstr "PB"
+
+#. Ambient/Flue/Inlet/NET Temperature label. (Maxlen=8)
+msgid "AMBIENT"
+msgstr "AMBIENTE"
+
+msgid "T FLUE"
+msgstr "T FUMI"
+
+msgid "T INLET"
+msgstr "T INLET"
+
+msgid "T NET"
+msgstr "T NET"
+
+#. Amient/Flue/Inlet Temperature Shortform label. (Minlen=2; Maxlen=2)
+msgid "Ta"
+msgstr "Ta"
+
+msgid "Tf"
+msgstr "Tf"
+
+msgid "Ti"
+msgstr "Ti"
+
+#. Volumetric Flow label. (Maxlen=8)
+msgid "FLOW"
+msgstr "PORTATA"
+
+#. Total Loss (Maxlen=8)
+msgid "LOSS"
+msgstr "Qs"
+
+#. Total Loss Shortform (Minlen=3, Maxlen=3)
+msgid "LOS"
+msgstr "Qs"
+
+#. CO Loss (Maxlen=8)
+msgid "CO LOSS"
+msgstr "CO PERD"
+
+#. CO Loss Shortform (Minlen=3, Maxlen=3)
+msgid "C/L"
+msgstr "C/P"
+
+#. DRY Loss (Maxlen=8)
+msgid "DRY LOSS"
+msgstr "PERD SEC"
+
+#. DRY Loss Shortform (Minlen=3, Maxlen=3)
+msgid "DRY"
+msgstr "SEC"
+
+#. WET Loss (Maxlen=8)
+msgid "WET LOSS"
+msgstr "PERD UMI"
+
+#. DRY Loss Shortform (Minlen=3, Maxlen=3)
+msgid "WET"
+msgstr "UMI"
+
+#. Poison Index Label (Maxlen=8)
+msgid "P INDEX"
+msgstr "IND INQ"
+
+#. Poison Index Shortform Label (Minlen=3, Maxlen=3)
+msgid "PI "
+msgstr "II"
+
+#. Ratio Label (Maxlen=7)
+msgid "CO/CO2"
+msgstr "CO/CO2"
+
+#. Ratio Shortform Label (Maxlen=3)
+msgid "R"
+msgstr "R"
+
+#. Various Net/Gross Efficiency Value labels. Long:(Maxlen=8) Short:(Maxlen=3)
+msgid "Eff (N)"
+msgstr "REND N"
+
+msgid "En"
+msgstr "RN"
+
+msgid "Eff (G)"
+msgstr "REND L"
+
+msgid "Eg"
+msgstr "RL"
+
+msgid "EffC(N)"
+msgstr "REND CN"
+
+msgid "Ecn"
+msgstr "RCN"
+
+msgid "EffC(G)"
+msgstr "REND CL"
+
+msgid "Ecg"
+msgstr "RCL"
+
+#. Efficiency Condensing Italy label. (Maxlen=8)
+msgid "ET"
+msgstr "ET"
+
+#. Efficiency SENSIBLE Italy label. (Maxlen=8)
+msgid "Es"
+msgstr "Es"
+
+#. Efficiency Standard Italy label. (Maxlen=8)
+msgid "Ec"
+msgstr "Ec"
+
+#. Efficiency Germanic Shortform label. (Maxlen=3)
+msgid "Eff"
+msgstr "Eff"
+
+#. Excess Air label. (Maxlen=8)
+msgid "XS AIR"
+msgstr "ECC ARIA"
+
+#. Excess Air Shortform label. (Minlen=3; Maxlen=3)
+msgid "XA "
+msgstr "EA"
+
+#. Lambda label. (Maxlen=8)
+msgid "LAMBDA"
+msgstr "LAMBDA"
+
+#. Draught label. (Maxlen=7)
+msgid "DRAUGHT"
+msgstr "TIRAGG"
+
+#. Draught Shortform label. (Maxlen=3)
+msgid "DFT"
+msgstr "TIR"
+
+#. Pressure label. (Maxlen=3)
+msgid "PRESSURE"
+msgstr "PRESSIONE"
+
+#. Pressure Shortform label. (Maxlen=3)
+msgid "PRS"
+msgstr "PRS"
+
+#. Vacuum label. (Maxlen=7)
+msgid "VACUUM"
+msgstr ""
+
+#. Volume Shortform label. (Maxlen=3)
+msgid "VAC"
+msgstr ""
+
+#. Volume label. (Maxlen=7)
+msgid "VOLUME"
+msgstr "VOLUME"
+
+#. Volume Shortform label. (Maxlen=3)
+msgid "VOL"
+msgstr "VOL"
+
+#. Time (quantity) Shortform label. (Maxlen=3)
+msgid "T"
+msgstr "T"
+
+#. Humidity label. (Maxlen=8)
+msgid "HUMIDITY"
+msgstr "UMIDITA'"
+
+#. Humidity Shortform label. (Maxlen=3)
+msgid "rh"
+msgstr "rh"
+
+#. Not Fitted / Not Available Shortform (Maxlen=5)
+msgid "-N/F-"
+msgstr "N/F"
+
+#. Fuel Flow label [ITALIAN ONLY] (Maxlen=8)
+msgid "FUEL FLO"
+msgstr "FLU CARB"
+
+#. Fuel Flow label Shortform [Placehold Text for ITALIAN & ENGLISH ONLY] (Maxlen=3)
+msgid "FLO_FUEL"
+msgstr "FLC"
+
+#. UNI10845 Draught label (Maxlen=8)
+msgid "Pc"
+msgstr ""
+
+#. UNI10845 Draught label Shortform (Maxlen=3)
+msgid "Pc_SF"
+msgstr ""
+
+#. Refrigerant Condesning Temp label. (Maxlen=8)
+msgid "COND_LF"
+msgstr "Temp. Cond"
+
+#. Refrigerant Condesning Temp Shortform label. (Maxlen=3)
+msgid "COND_SF"
+msgstr ""
+
+#. Refrigerant Evaporation Temp label. (Maxlen=8)
+msgid "EV"
+msgstr "Temp. Evap"
+
+#. Refrigerant Evaporation Temp Shortform label. (Maxlen=3)
+msgid "EV_SF"
+msgstr "TER"
+
+#. Refrigerant Superheat Temp label. (Maxlen=9)
+msgid "SUPERHEAT"
+msgstr "T. Surrisc"
+
+#. Refrigerant Superheat Temp Shortform label. (Maxlen=3)
+msgid "SH"
+msgstr "THR"
+
+#. Refrigerant Subcool Temp label. (Maxlen=8)
+msgid "SUBCOOL"
+msgstr "T. Sottoraf"
+
+#. Refrigerant Subcool Temp Shortform label. (Maxlen=3)
+msgid "SC_SF"
+msgstr "TCR"
+
+#. Refrigerant low pressure label. (Maxlen=8)
+msgid "LP"
+msgstr "Bassa pres"
+
+#. Refrigerant low pressure Shortform label. (Maxlen=3)
+msgid "LP_SF"
+msgstr "LPR"
+
+#. Refrigerant high pressure label. (Maxlen=8)
+msgid "HP"
+msgstr "Alta pres"
+
+#. Refrigerant high pressure Shortform label. (Maxlen=3)
+msgid "HP_SF"
+msgstr "HPR"
+
+#. Refrigerant (Maxlen=8)
+msgid "REFRIGERANT"
+msgstr ""
+
+#. Swap Probes Menu Title (Maxlen=20)
+msgid "Arrange High/Low"
+msgstr "Cambia Lato"
+
+#. Swap temperature probes probes (Maxlen=20)
+msgid "Swap WPCA2 High/Low"
+msgstr "Cambio Alta / Bassa T."
+
+#. Swap pressure probes (Maxlen=20)
+msgid "Swap WPP1 High/Low"
+msgstr "Cambio Alta / Bassa P."
+
+#. WPCA2 temperature probes (Maxlen=10)
+msgid "WPCA2 Low"
+msgstr "Sonda Bassa T."
+
+#. WPCA2 temperature probes (Maxlen=10)
+msgid "WPCA2 High"
+msgstr "Sonda Alta T."
+
+#. Swap pressure probes (Maxlen=10)
+msgid "WPP1 Low"
+msgstr "Sonda Bassa P."
+
+#. Swap pressure probes (Maxlen=10)
+msgid "WPP1 High"
+msgstr "Sonda Alta P."
+
+#.
+#. MIDSTREAM
+#. ------------------------------------------------------------------
+msgid "Midstream"
+msgstr "Centro Flusso"
+
+msgid "Temperature Limit"
+msgstr "Limite di temp"
+
+msgid "Draught Limit"
+msgstr "Limite di tiraggio"
+
+#.
+#. COMMON LOGGING & PRINTING TEXT
+#. ------------------------------------------------------------------
+msgid "Duration"
+msgstr "Durata"
+
+msgid "Interval"
+msgstr "Intervallo"
+
+msgid "Start Test"
+msgstr "Inizia test"
+
+msgid "Log Stored"
+msgstr "Registro memorizzato"
+
+msgid "View Logs"
+msgstr "Vedi registri"
+
+msgid "Delete All Logs"
+msgstr "Cancella tutti registri"
+
+msgid "Confirm"
+msgstr "Conferma"
+
+msgid "Log Saved"
+msgstr "Registro salvato"
+
+msgid "Log Number"
+msgstr "Numero registro"
+
+msgid "Memory Full"
+msgstr "Memoria piena"
+
+msgid "Print Report"
+msgstr "Stampa Report"
+
+#. Status Page-6 Title (Maxlen=20)
+msgid "Memory Usage"
+msgstr "Memoria Utilizzo"
+
+#. Popup Warning Message on 1-line (Maxlen=16)
+msgid "MEMORY FULL"
+msgstr "MEMORIA PIENA"
+
+#. Popup Warning Message on 2-lines (Maxlen=32)
+msgid "MEMORY ERROR"
+msgstr "ERRORE DI MEMORIA"
+
+#. Log (As in log number: LOG 1 or LOG 2)
+msgid "LOG"
+msgstr "REG"
+
+#.
+#. ADE TEST ITEMS
+#. ------------------------------------------------------------------
+#. ADE TEST Menu Title (Maxlen=20)
+msgid "ADE TEST"
+msgstr "MEDIA TEST"
+
+#. ADE TEST Menu Items (Maxlen=20)
+msgid "COMPLETE TEST"
+msgstr "TEST COMPLETO"
+
+msgid "COMPLETE"
+msgstr "COMPLETO"
+
+msgid "MINIMAL"
+msgstr "MINIMO"
+
+msgid "ROOM CO TEST"
+msgstr "TEST CO AMBIENTE"
+
+msgid "DRAUGHT TEST"
+msgstr "TEST TIRAGGIO"
+
+msgid "FINISH TEST"
+msgstr "FINIRE TEST"
+
+msgid "EMISSIONS ÉVALUÉES"
+msgstr "EMISSIONI VALUTATE"
+
+#.
+#. Attestation d'entretien (ADE) TEST
+#. ------------------------------------------------------------------
+#. ADE TEST MENU Item (Maxlen=28)
+msgid "Attestation d'Entretien"
+msgstr ""
+
+msgid "ADE"
+msgstr ""
+
+msgid "Nouvelle attestation"
+msgstr ""
+
+msgid "Contrôle de CO ambiant"
+msgstr ""
+
+msgid "Contrôle de combustion"
+msgstr ""
+
+msgid "CO"
+msgstr ""
+
+msgid "CO Maximum"
+msgstr ""
+
+msgid "Bon"
+msgstr ""
+
+msgid "DGI"
+msgstr ""
+
+msgid "Résultat"
+msgstr ""
+
+msgid "Continuer"
+msgstr ""
+
+msgid "Mettre la sonde à 50cm de la chaudière"
+msgstr ""
+
+msgid "Mettre la sonde dans le conduit"
+msgstr ""
+
+msgid "Rendement évalué"
+msgstr ""
+
+msgid "Rendement de référence"
+msgstr ""
+
+msgid "NOx évalués"
+msgstr ""
+
+msgid "NOx de référence"
+msgstr ""
+
+msgid "Emis. év. des poussières"
+msgstr ""
+
+msgid "Poussieres de référence"
+msgstr ""
+
+msgid "COV évalués"
+msgstr ""
+
+msgid "COV de référence"
+msgstr ""
+
+msgid "Opacité des fumées"
+msgstr ""
+
+#. UNI11137 Italian Tightness TEST Edit
+#. ------------------------------------------------------------------
+#. UNI11137 TEST Menu Items (Maxlen=20)
+msgid "UNI11137"
+msgstr "UNI11137"
+
+msgid "Setup UNI11137 Test"
+msgstr "Setup UNI11137 Test"
+
+msgid "VOLUME CALCULATION"
+msgstr "Calcolo Volume"
+
+msgid "PIPE LENGTH"
+msgstr "Lungh Tubo"
+
+msgid "PIPE DIAMETER"
+msgstr "Diam Tubo"
+
+msgid "PIPE VOLUME"
+msgstr "Volume Tubo"
+
+msgid "SYRINGE VOLUME"
+msgstr "Volume Siringa"
+
+msgid "INCLUDE GAS COUNTER"
+msgstr "Contatore Incluso"
+
+msgid "MANUAL INPUT"
+msgstr "INSERIMENTO MANUALE"
+
+msgid "LENGTH & DIAMETER"
+msgstr "LUNGHEZZA & DIAMETRO"
+
+msgid "DIRECT MEAS."
+msgstr "MISURARE"
+
+msgid "Attach pressure meter and extract the test volume. Then, Press ENTER"
+msgstr ""
+"Collegare l'analizzatore ed estrarre il vlume di test. Poi premere ENTER"
+
+msgid "Inject test volume back into the system. Then, Press ENTER"
+msgstr "Inserire il volume di test nel sistema. Poi premere ENTER"
+
+msgid "Shut the valve. Then press ENTER"
+msgstr "Chiudere la valvoola. Poi premere ENTER"
+
+msgid "Let by test running. Please wait"
+msgstr "Test in progressione. Prego attendere"
+
+msgid "Shut valve and press ENTER to begin stabilisation period"
+msgstr "Chiudi la valvola e premi ENTER per iniziare la stabilizzazione"
+
+msgid "Waiting for stabilisation period. Please wait"
+msgstr "Stabilizzazione in corso. Prego attendere"
+
+msgid "Press ENTER to continue"
+msgstr "Premi ENTER per continuare"
+
+msgid "Leak test running. Please wait"
+msgstr "Test di tenuta in corso. Prego attendere"
+
+msgid ""
+"Test complete. The estimated leak is compensated for the viscosity of air"
+msgstr "Test completato. La perdita è compensata per la viscosità dell'aria"
+
+msgid ""
+"Test complete. The normalised leak is normalised to reference pressure for "
+"the selected fuel"
+msgstr ""
+"Test terminato. la perdita è normalizzata con riferimento al combustibile "
+"selezionato"
+
+msgid "Nat Gas"
+msgstr "Gas Nat"
+
+msgid "LPG"
+msgstr "GPL"
+
+msgid "AIR"
+msgstr "ARIA"
+
+msgid "TEST MEDIUM"
+msgstr "GAS DI PROVA"
+
+msgid "Installation Type"
+msgstr "Tipo di installazione"
+
+msgid "Non Domestic"
+msgstr "Non Domestica"
+
+msgid "Preliminary Test"
+msgstr "Test Preliminare"
+
+msgid "PRELIMINARY TEST"
+msgstr "TEST PRELIMINARE"
+
+msgid "Domestic"
+msgstr "Domestica"
+
+msgid "Meas. Leak"
+msgstr "Mis. Perd"
+
+msgid "Est. Leak"
+msgstr "Perd estim"
+
+msgid "Norm. Leak"
+msgstr "Perd norm"
+
+msgid "SYSTEM VOLUME"
+msgstr "VOLUME SISTEMA"
+
+msgid "Installation Family"
+msgstr "Fam installazione"
+
+msgid "6th"
+msgstr "6°"
+
+msgid "7th"
+msgstr "7°"
+
+msgid "Low Pressure"
+msgstr "Pressione bassa"
+
+msgid "High Pressure"
+msgstr "Pressione alta"
+
+msgid "Time Remaining"
+msgstr "Tempo rimanente"
+
+msgid "Prs Increase"
+msgstr "Aumento PRS"
+
+msgid "SYS VOL"
+msgstr "VOL SIS"
+
+msgid "PRS DIFF"
+msgstr "PRS DIFF"
+
+msgid "PIPE LEN"
+msgstr "L tubo"
+
+msgid "PIPE DIA"
+msgstr "D tubo"
+
+msgid "RISE"
+msgstr "INCR"
+
+msgid "LET BY TIME"
+msgstr "T VTEST"
+
+msgid "TEST TIME"
+msgstr "T TEST"
+
+msgid "TEST VOL"
+msgstr "VOL TEST"
+
+msgid "INST. TYPE"
+msgstr "TIPO INST"
+
+msgid "INST. FAMILY"
+msgstr "FAMIGLIA INST"
+
+msgid "METHOD"
+msgstr "METODO"
+
+msgid "INDIRECT TEST"
+msgstr "TEST CDP"
+
+msgid "Diff Pressure"
+msgstr "Diff Pressione"
+
+#. UNI10845 TEST Menu Item (Maxlen=12)
+#. ------------------------------------------------------------------
+msgid "UNI10845"
+msgstr ""
+
+#.
+#. AVERAGE TEST (AKA MITTELWERT & UNI10389, etc)
+#. MITTELWERT TEST Menu Items (Maxlen=20)
+#. ------------------------------------------------------------------
+#. UNI10389 Italian Average TEST Edit``
+#. ------------------------------------------------------------------
+#. UNI10389 TEST Menu Item (Maxlen=20)
+msgid "Setup UNI10389-1 Test"
+msgstr "Imposta test UNI10389-1"
+
+msgid "Average Test"
+msgstr "UNI10389-2"
+
+msgid "View Average Reports"
+msgstr "Vedi Reports UNI10389-2"
+
+msgid "Setup Average Test"
+msgstr "Imposta test UNI10389-2"
+
+msgid "Average Test Type"
+msgstr "Tipo test media"
+
+msgid "Custom"
+msgstr "Cliente"
+
+msgid "Sampling Interval"
+msgstr "Intervallo misura"
+
+msgid "Sampling Duration"
+msgstr "Durata misura"
+
+msgid "Test ID"
+msgstr "Identificativo test"
+
+#. MITTELWERT TEST Instruction Items:
+msgid "Fire Burner & Locate Midstream"
+msgstr "Accendi il bruciatore e trova il centro del flusso"
+
+msgid "Wait For Stable Readings"
+msgstr "Attendi una lettura stabile"
+
+msgid "UNI10389-2"
+msgstr "UNI10389-2"
+
+msgid "A1"
+msgstr "A1"
+
+msgid "A2"
+msgstr "A2"
+
+msgid "B"
+msgstr "B"
+
+msgid "SET 1"
+msgstr "ANALISI 1"
+
+msgid "SET 2"
+msgstr "ANALISI 2"
+
+msgid "SET 3"
+msgstr "ANALISI 3"
+
+msgid "AVERAGE"
+msgstr "MEDIA"
+
+#. Commission TEST Edit``
+#. ------------------------------------------------------------------
+#. Commission TEST Menu Item (Maxlen=20)
+msgid "Commission Test"
+msgstr ""
+
+#, fuzzy
+msgid "Full Test"
+msgstr "Test Pompa"
+
+#, fuzzy
+msgid "Max Gas"
+msgstr "Gas Nat"
+
+msgid "Min Gas"
+msgstr ""
+
+msgid "Setup Commission Test"
+msgstr ""
+
+msgid "FLUE INTEGRITY"
+msgstr ""
+
+#, fuzzy
+msgid "MAX GAS FLOW"
+msgstr "PORTATA BASSA"
+
+#, fuzzy
+msgid "MIN GAS FLOW"
+msgstr "PORTATA BASSA"
+
+msgid "FLOW AND RETURN"
+msgstr ""
+
+msgid "Max Gas CO"
+msgstr ""
+
+msgid "Max Gas CO2"
+msgstr ""
+
+msgid "Max Gas O2"
+msgstr ""
+
+#, fuzzy
+msgid "Max Gas CO/CO2"
+msgstr "CO/CO2"
+
+msgid "Flue Integrity CO2"
+msgstr ""
+
+msgid "Flue Integrity O2"
+msgstr ""
+
+msgid "Set Boiler To Max Gas. Then, Press Enter"
+msgstr ""
+
+msgid "Put Probe In Fresh Air. Then, Press Enter"
+msgstr ""
+
+msgid ""
+"Insert Probe Into Air Inlet. Then, When Readings Are Stable, Press Enter"
+msgstr ""
+
+msgid "Insert Probe Into Flue. Then, When Readings Are Stable, Press Enter"
+msgstr ""
+
+msgid "Set Boiler To Min Gas. Then, When Readings Are Stable, Press Enter"
+msgstr ""
+
+msgid ""
+"Connect Flow And Return Probes. Then, When Readings Are Stable, Press Enter"
+msgstr ""
+
+#. Room TEST Edit``
+#. ------------------------------------------------------------------
+#. Room TEST Menu Item (Maxlen=20)
+#, fuzzy
+msgid "Room Test"
+msgstr "Test Pompa"
+
+#, fuzzy
+msgid "Setup Room Test"
+msgstr "Imposta test UNI10389-2"
+
+#, fuzzy
+msgid "Test Type"
+msgstr "Tipo di Andamento"
+
+msgid "General"
+msgstr ""
+
+msgid "Type A Space Heater"
+msgstr ""
+
+msgid "Space Heater"
+msgstr ""
+
+msgid "Type A Water Heater"
+msgstr ""
+
+msgid "Water Heater"
+msgstr ""
+
+msgid "Type A Cooker"
+msgstr ""
+
+msgid "Type B Boiler, Open Flue"
+msgstr ""
+
+msgid "Boiler"
+msgstr ""
+
+msgid "Type C Sealed Appliance"
+msgstr ""
+
+msgid "Appliance"
+msgstr ""
+
+#, fuzzy
+msgid "Migration"
+msgstr "Durata"
+
+msgid "Sweep"
+msgstr ""
+
+msgid "Maximum"
+msgstr ""
+
+#, fuzzy
+msgid "Test"
+msgstr "Identificativo test"
+
+#, fuzzy
+msgid "Tests"
+msgstr "Test Pompa"
+
+msgid "CO2 ppm"
+msgstr ""
+
+msgid "CO ppm"
+msgstr ""
+
+msgid "Valid"
+msgstr ""
+
+msgid "Invalid"
+msgstr ""
+
+msgid "Kane79 Cal"
+msgstr ""
+
+msgid "Room"
+msgstr ""
+
+msgid "KANE79"
+msgstr ""
+
+msgid "Limit"
+msgstr ""
+
+msgid "KANE79 Bat 1"
+msgstr ""
+
+msgid "KANE79 Bat 2"
+msgstr ""
+
+msgid "KANE79 Bat 3"
+msgstr ""
+
+msgid "KANE79 Bat 4"
+msgstr ""
+
+msgid "WCO1"
+msgstr ""
+
+msgid "WCO2"
+msgstr ""
+
+msgid "WCO3"
+msgstr ""
+
+msgid "WCO4"
+msgstr ""
+
+#, fuzzy
+msgid "CO Limit"
+msgstr "Limite Asse Y"
+
+#. Sweep TEST Edit``
+#. ------------------------------------------------------------------
+#. Sweep TEST Menu Item (Maxlen=20)
+#, fuzzy
+msgid "Sweep Test"
+msgstr "UNI10389-2"
+
+#, fuzzy
+msgid "Setup Sweep Test"
+msgstr "Imposta test UNI10389-2"
+
+#.
+#. TIMED LOGGING Edit
+#. TIMED LOGGING Menu Items (Maxlen=20)
+#. ------------------------------------------------------------------
+msgid "Measure Mode"
+msgstr "Modo Misura"
+
+msgid "Total Samples"
+msgstr "Totale Campioni"
+
+msgid "Samples"
+msgstr "Campioni"
+
+msgid "Timed Logging"
+msgstr "Registrazione temporizzata"
+
+msgid "Stop Timed Logging"
+msgstr "Ferma memorizzazione temp"
+
+msgid "Setup Timed Logging"
+msgstr "Imposta registrazione temporizzata"
+
+msgid "Delete Log A"
+msgstr "Cancella Reg. A"
+
+msgid "Delete Log B"
+msgstr "Cancella Reg. B"
+
+#. ------------------------------------------------------------------
+#. TIGHTNESS TEST Edit
+#. ------------------------------------------------------------------
+#. TIGHTNESS TESTS Menu Item (Maxlen=20)
+msgid "TIGHTNESS TEST"
+msgstr "UNI7129"
+
+msgid "Tightness Test"
+msgstr "UNI7129"
+
+msgid "Tightness Test Setup"
+msgstr "UNI7129"
+
+msgid "Stabilisation time"
+msgstr "Tempo stabilizzazione"
+
+msgid "Stab time"
+msgstr "Tempo stab"
+
+msgid "Test time"
+msgstr "Tempo test"
+
+msgid "Let by time"
+msgstr "Tempo VTest"
+
+msgid "Tightness Time"
+msgstr "Tempo tenuta"
+
+msgid "Let by Test"
+msgstr "Test valvola"
+
+msgid "Zero Pressure"
+msgstr "Zero Pressione"
+
+msgid "Start Pressure"
+msgstr "Inizia Pressione"
+
+msgid "End Pressure"
+msgstr "Fine Pressione"
+
+msgid "Current Pressure"
+msgstr "Pressione Attuale"
+
+msgid "Stabilisation"
+msgstr "Stabilizzazione"
+
+msgid "Let by Start"
+msgstr ""
+
+msgid "Let by End"
+msgstr ""
+
+msgid "Tightness Start"
+msgstr ""
+
+msgid "Tightness End"
+msgstr ""
+
+msgid "Let by"
+msgstr ""
+
+msgid "Delta"
+msgstr ""
+
+msgid "Tightness"
+msgstr ""
+
+msgid "Min"
+msgstr ""
+
+#. ------------------------------------------------------------------
+#.
+#. BTGUI setup. For setting up bluetooth devices
+#. ------------------------------------------------------------------
+msgid "Add Device"
+msgstr "Agg. Dispositivo"
+
+msgid "Remove Device"
+msgstr "Rimuovi Dispositivo"
+
+msgid "Device Status"
+msgstr "Stato Dispositivo"
+
+msgid "WLEM Version"
+msgstr "Versione WLEM"
+
+msgid "WLEM Error"
+msgstr "Errore WLEM"
+
+msgid "WPCA2 Temperature Clamp"
+msgstr "WPCA2 Temperatura a pinza"
+
+msgid "DTHA2 Anemometer"
+msgstr "DTHA2 Anemometro"
+
+msgid "KANE79 Ambient CO Monitor"
+msgstr "KANE79 Monitor CO Ambiente"
+
+msgid "WPP1 Wireless Pressure Probe"
+msgstr "WPP1 Sonda pressione Wireless"
+
+msgid "Not Paired"
+msgstr "Non connesso"
+
+msgid "Paired Devices"
+msgstr "Dispositivi connessi"
+
+msgid "S/N"
+msgstr "S/N"
+
+msgid "BAT OK"
+msgstr "BAT OK"
+
+msgid "BAT LOW"
+msgstr "BAT LOW"
+
+#.
+#. Printer Footer Signature Boxes
+#. ------------------------------------------------------------------
+#. Footer Text (Maxlen=24)
+msgid "CUSTOMER"
+msgstr "CLIENTE"
+
+msgid "APPLIANCE"
+msgstr "APPARECCHIATURA"
+
+msgid "REGISTRATION Nº"
+msgstr ""
+
+msgid "REFERENCE"
+msgstr "RIFERIMENTO"
+
+#.
+#. WARNINGS & ALARMS
+#. ------------------------------------------------------------------
+#. Popup Title for Alarms & Warnings (Maxlen=26)
+msgid "TOXIC GAS ALARM"
+msgstr "ALLARME GAS TOSSICO"
+
+msgid "BATTERY LOW ALARM"
+msgstr "ALLARME BATTERIA BASSA"
+
+msgid "WATERTRAP CHECK WARNING"
+msgstr "ALLARME TRAPPOLA"
+
+msgid "EXCESSIVE CO WARNING"
+msgstr "ALLARME CO ECCESSIVO"
+
+#. ------------------------------------------------------------------
+#. Popup Messages for Alarms & Warnings (Maxlen=26)
+msgid "HIGH TOXIC GAS"
+msgstr "GAS TOSSICO ELEVATO"
+
+msgid "BATTERY LOW"
+msgstr "BATTERIA BASSA"
+
+msgid "BATTERY DEAD"
+msgstr "BATTERIA MORTA"
+
+msgid "CHECK WATERTRAP"
+msgstr "CONTROLLA TRAPPOLA ANTICONDENSA"
+
+msgid "LOW GAS FLOW"
+msgstr "PORTATA BASSA"
+
+msgid "PUMP OFF"
+msgstr "POMPA SPENTA"
+
+msgid "PUMP MOTOR FAULT"
+msgstr "POMPA FALLITO"
+
+msgid "PUMP BLOCKED"
+msgstr "POMPA BLOCCATA"
+
+msgid "ACCURACY COULD BE DEGRADED"
+msgstr "LA PRECISIONE PUO' ESSERE INFERIORE"
+
+msgid "ERASING, PLEASE WAIT"
+msgstr "CANCELLANDO, PREGO ATTENDERE"
+
+#. Popup Warning Message on 1-line (Maxlen=16)
+msgid "ZERO REQUIRED"
+msgstr "RICHIESTO ZERO"
+
+msgid "ZERO OVERDUE"
+msgstr "ZERO SCADUTO"
+
+msgid "FUNCTION LOCKED"
+msgstr "FUNZIONE BLOCCATA"
+
+#. Pressure Zero Success Messages. Split over 2-lines (Maxlen=32)
+msgid "PRESSURE ZERO FAILED"
+msgstr ""
+
+msgid "PRESSURE ZERO SUCCESS"
+msgstr ""
+
+#.
+#. PRESS ENTER TO ... MESSAGES (Maxlen=32)
+#. ------------------------------------------------------------------
+msgid "Press enter to abort"
+msgstr "Premi enter per cancellare"
+
+msgid "Press enter to continue"
+msgstr "Premi enter per continuare"
+
+msgid "Press enter to view"
+msgstr "Premi enter per vedere"
+
+msgid "Press enter to calibrate"
+msgstr "Premi enter per calibrare"
+
+msgid "Press enter when stable"
+msgstr "Premi enter quanto stabile"
+
+#. ------------------------------------------------------------------
+#.
+#. BATTERY CHARGE MESSAGES
+#. ------------------------------------------------------------------
+#. TITLE (Animated Charge Screen) (Maxlen=23)
+msgid "BATTERY CHARGED"
+msgstr "BATTERIA CARICA"
+
+msgid "BATTERY CHARGING"
+msgstr "BATTERIA IN CARICA"
+
+msgid "CHARGING FAULT"
+msgstr "ERRORE IN CARICA"
+
+#. Instruction Mesage (Maxlen=36)
+msgid "Disconnect Charger"
+msgstr "Scollega alimentatore"
+
+#. The Final Goodbye (Maxlen=13)
+msgid "GOODBYE"
+msgstr "CIAO"
+
+#.
+#. Service Welcome Message.
+#. ------------------------------------------------------------------
+msgid "KANE CARE SERVICE"
+msgstr "KANE CARE SERVICE"
+
+msgid "For KANE CARE"
+msgstr "Per KANE CARE"
+
+msgid "Service & Recertification"
+msgstr "Manutenzione & Ricertificazione"
+
+#.
+#. Service Menu Strings (These Messages need NOT to be translated).
+#. ------------------------------------------------------------------
+msgid "Calibrate Analyser"
+msgstr "Calibra Analizzatore"
+
+msgid "Factory Setup"
+msgstr "Impostazioni di fabbrica"
+
+msgid "Sensor Management"
+msgstr "Gestione Sensori"
+
+msgid "EEPROM Management"
+msgstr "Gestione EEPROM"
+
+msgid "Set Install Mode"
+msgstr "Imposta modalità Installazione"
+
+msgid "Diagnostic Info"
+msgstr "Diagnostica"
+
+#. ------------------------------------------------------------------
+msgid "Pump Tests"
+msgstr "Test Pompa"
+
+msgid "Flow & Vacuum Test"
+msgstr "Test Portata & Vuoto"
+
+msgid "Purge Pump Test"
+msgstr "Prova Pompa Spurgo"
+
+msgid "Pump Cold Test"
+msgstr "Test a Freddo Pompa"
+
+msgid "Calibrate Pump Current"
+msgstr "Calibra Corrente Pompa"
+
+#. ------------------------------------------------------------------
+msgid "Set Serial Number"
+msgstr "Imposta Numero di Serie"
+
+msgid "Set Bluetooth Module"
+msgstr "Imposta Modulo Bluetooth"
+
+msgid "Set Pump Type"
+msgstr "Imposta Tipo di Pompa"
+
+msgid "Set Purge Pump"
+msgstr "Imposta Pompa di Spurgo"
+
+#. ------------------------------------------------------------------
+msgid "Calibrate On Gas"
+msgstr "Calibra Con Gas"
+
+msgid "Calibrate T1 & T2"
+msgstr "Calibra T1 e T2"
+
+msgid "Calibrate Pressure Zero"
+msgstr "Calibra Zero Pressione"
+
+msgid "Calibrate Pressure Span"
+msgstr "Calibra Fondo Scala Pressione"
+
+msgid "Set ReCalibration Date"
+msgstr "Imposta Data di RiCalibrazione"
+
+#. ------------------------------------------------------------------
+msgid "Span"
+msgstr "Fondo Scala"
+
+msgid "Zero"
+msgstr ""
+
+msgid "Cal"
+msgstr ""
+
+msgid "DIAG:"
+msgstr ""
+
+msgid "Check Accuracy"
+msgstr "Verificare la calibrazione"
+
+msgid "Calibrate E/C Zero on AIR"
+msgstr "Calibra Zero Sensori (Aria)"
+
+msgid "Calibrate E/C Zero on N2"
+msgstr "Calibra Zero Sensori (N2)"
+
+msgid "Calibrate O2 Zero on CO"
+msgstr "Calibra Zero O2 (CO)"
+
+msgid "Calibrate O2 Zero on N2"
+msgstr "Calibra Zero O2 (N2)"
+
+msgid "Calibrate O2 Span"
+msgstr "Calibra Fondo Scala O2"
+
+msgid "Calibrate CO Span"
+msgstr "Calibra Fondo Scala CO"
+
+msgid "Calibrate H2 Span"
+msgstr "Calibra Fondo Scala H2"
+
+msgid "Calibrate NO Span"
+msgstr "Calibra Fondo Scala NO"
+
+msgid "Calibrate NO2 Span"
+msgstr "Calibra Fondo Scala NO2"
+
+msgid "Calibrate SO2 Span"
+msgstr "Calibra Fondo Scala SO2"
+
+msgid "Calibrate H2S Span"
+msgstr "Calibra Fondo Scala H2S"
+
+msgid "Calibrate CO2 Span"
+msgstr "Calibra Fondo Scala CO2"
+
+msgid "Set Calibration Point"
+msgstr "Data di Calibrazione"
+
+msgid "Calibrate IR Bench"
+msgstr "Calibra Banco IR"
+
+msgid "Calibrate IR Bench Zero"
+msgstr "Calibra di Zero Banco IR"
+
+msgid "Calibrate IR Bench Span"
+msgstr "Calibra Fondo Scala Banco IR"
+
+msgid "Set AutoMix CO"
+msgstr "Imposta AutoMix CO"
+
+msgid "Set AutoMix HC"
+msgstr "Imposta AutoMix HC"
+
+msgid "Set AutoMix CO2"
+msgstr "Imposta AutoMix CO2"
+
+#. ------------------------------------------------------------------
+msgid "Load Defaults"
+msgstr "Carica i Defaults"
+
+msgid "Perform EEPROM Test"
+msgstr "Esegui Test EEPROM"
+
+#~ msgid "Vehicle"
+#~ msgstr "Veicolo"
+
+#~ msgid "Calibrate O2 Sensor Span"
+#~ msgstr "Calibra Fondo Scala O2"
+
+#~ msgid "Calibrate CO2 Module"
+#~ msgstr "Calibrazione Banco CO2"
+
+#~ msgid "Calibrate on Fresh Air: Zero"
+#~ msgstr "Calibrazione con Aria: Zero"
+
+#~ msgid "Calibrate on CO Gas"
+#~ msgstr "Calibrazione con Gas CO"

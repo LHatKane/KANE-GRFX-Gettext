@@ -1,0 +1,2041 @@
+# Turkish translations for KANEGRFX package.
+# KANEGRFX paketi için Türkçe çeviriler.
+# Copyright (C) 2023 Kane International Ltd.
+# This file is distributed under the same license as the KANEGRFX package.
+# Nigel Winterbottom <nigel.winterbottom@kane.co.uk>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: KANEGRFX 4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-27 14:54+0000\n"
+"PO-Revision-Date: 2023-04-12 15:05+0100\n"
+"Last-Translator: <EMAIL@ADDRESS>\n"
+"Language-Team: Turkish\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "None"
+msgstr ""
+
+#.
+#. ------------------------------------------------------------------
+#. These Messages SHOULD NOT to be translated (except perhaps for Chinese).
+msgid "Kelvin"
+msgstr ""
+
+msgid "Celsius"
+msgstr ""
+
+msgid "Fahrenheit"
+msgstr "Fahrenayt"
+
+msgid "Mittelwert"
+msgstr ""
+
+#, fuzzy
+msgid "UNI10389-1"
+msgstr "Ortalama Testi Ayarla"
+
+msgid "DTHA2"
+msgstr ""
+
+msgid "Self Test Report"
+msgstr "Cihaz Test Raporu"
+
+#. MAGIC MSG TO GENERATE EMPTY STRING
+msgid "*"
+msgstr ""
+
+#.
+#. STARTUP TYPEWRITER TEXT
+#. ------------------------------------------------------------------
+#. EEPROM BLANK (Maxlen=12)
+msgid "BLANK"
+msgstr "YAZISIZ"
+
+#.
+#. INITIAL PURGE/ZERO SCREEN
+#. ------------------------------------------------------------------
+#. This message appears in 2 areas (Big font Main screen (big font) and Tabbed Message (small font).
+msgid "ANALYSER"
+msgstr "ANALIZÖR"
+
+msgid "ANALYSER PURGING"
+msgstr "ANALIZOR TEMIZLENIYOR"
+
+msgid "ANALYSER ZERO"
+msgstr "ANALIZOR SIFIRLAMA"
+
+msgid "SHUTDOWN PURGE"
+msgstr "KAPAMA TEMIZLIGI"
+
+#. Instruction to User for Successful Purge (Maxlen=32)
+msgid "FLOW FRESH AIR"
+msgstr "TEMIZ HAVA VERIN"
+
+#. CO Sensor Purge (Maxlen=19)
+msgid "EXCESSIVE CO"
+msgstr "FAZLA CO"
+
+msgid "PURGING CO SENSOR"
+msgstr "CO SENSOR TEMIZLEME"
+
+#.
+#. HOME SCREEN
+#. ------------------------------------------------------------------
+#. This message appears in 1 area (Small font).
+msgid "Operated By:"
+msgstr "Kullanici"
+
+#.
+#. MAIN Menu
+#. ------------------------------------------------------------------
+#. Home Menu Title (Maxlen=17)
+msgid "HOME MENU"
+msgstr "ANA MENU"
+
+#. Home Menu Items (Maxlen=16)
+msgid "STATUS"
+msgstr "DURUM"
+
+msgid "MEASUREMENT"
+msgstr "OLCUM"
+
+msgid "SETUP"
+msgstr "AYAR"
+
+msgid "SETTINGS"
+msgstr "AYARLAR"
+
+msgid "VIEW LOGS"
+msgstr "KAYITLAR"
+
+msgid "ON-SCREEN TRENDS"
+msgstr "EKRAN TRENDLERi"
+
+msgid "SERVICE"
+msgstr "SERViS"
+
+msgid "TOOLS"
+msgstr "ARACLAR"
+
+#.
+#. SETTINGS MENU
+#. ------------------------------------------------------------------
+#. Small Font Menu Item (Maxlen=32)
+msgid "Efficiency"
+msgstr "Verimlilik"
+
+msgid "Gas Units"
+msgstr "Gaz Birimleri"
+
+msgid "Reference O2"
+msgstr "Referans O2"
+
+msgid "Reference O2 (NO)"
+msgstr "Referans O2"
+
+msgid "Pitot Tube Factor"
+msgstr "Pitot Tüp Faktörü"
+
+#, fuzzy
+msgid "HVACR Pressure"
+msgstr "Basinç"
+
+#. [ITALIAN ONLY] Small Font Menu Item (Maxlen=32)
+msgid "Fuel Flow"
+msgstr ""
+
+#.
+#. SETUP Menu
+#. ------------------------------------------------------------------
+#. Setup Menu Item (Maxlen=24)
+msgid "Language"
+msgstr "Dil"
+
+msgid "Operational Mode"
+msgstr "Çalisma Modu"
+
+msgid "Confirm Delete Logs"
+msgstr "Kayit Silme Onayi"
+
+msgid "Operating Region"
+msgstr "Çalisma Bölgesi"
+
+msgid "Main Purge"
+msgstr "Ana Temizlik"
+
+msgid "Alarms"
+msgstr "Alarmlar"
+
+msgid "Alarm Levels"
+msgstr "Alarm Seviyeleri"
+
+msgid "Manage LINK Devices"
+msgstr "LINK Cihazlari Ayarlama"
+
+msgid "User Defined Fuels"
+msgstr "Kullanici Tanimli Yakitlar"
+
+msgid "FGA Mode"
+msgstr "FGA Modu"
+
+msgid "EGA Mode"
+msgstr "EGA Modu"
+
+msgid "CHANGING OPERATION MODE WILL DELETE LOGGED DATA"
+msgstr "ÇALISMA MODUNU DEGiSTiRMEK KAYITLARI SiLER"
+
+#. Setup Operator Menu Items (Maxlen=32)
+msgid "Operator Detail"
+msgstr "Kullanici Detayi"
+
+msgid "Operator"
+msgstr "Kullanici"
+
+msgid "Company"
+msgstr "Firma"
+
+msgid "Addr Line 1"
+msgstr "Adres Satiri 1"
+
+msgid "Addr Line 2"
+msgstr "Adres Satiri 2"
+
+msgid "City/Town"
+msgstr "sehir/Ílçe"
+
+msgid "Post Code"
+msgstr "Posta Kodu"
+
+msgid "Telephone"
+msgstr "Telefon"
+
+msgid "Mobile"
+msgstr "Cep Tel"
+
+msgid "Web/Email"
+msgstr "Web/Email"
+
+#.
+#. MEASUREMENT Menu
+#. ------------------------------------------------------------------
+#. Menu Item (Maxlen=32)
+#. Shortform label. (Maxlen=3)
+msgid "Airflow"
+msgstr "Akis"
+
+msgid "FLO"
+msgstr "AKI"
+
+msgid "Airspeed"
+msgstr "Hava Hizi"
+
+msgid "ASP"
+msgstr "HH"
+
+msgid "Combustion"
+msgstr "Yanma"
+
+msgid "COMB."
+msgstr "YNM."
+
+msgid "Exhaust Gas"
+msgstr "Egzoz Gazi"
+
+msgid "Exhaust Gas SF"
+msgstr "Egzoz Gazi"
+
+msgid "Flue Gas"
+msgstr "Baca Gazi"
+
+msgid "FlueGas"
+msgstr "BacaGazi"
+
+msgid "Draught"
+msgstr "Çekim"
+
+msgid "Pressure"
+msgstr "Basinç"
+
+msgid "Vacuum"
+msgstr "Vakum"
+
+msgid "Temperature"
+msgstr "Sicaklik"
+
+msgid "Pressure & Temp"
+msgstr "Basinç ve Sicaklik"
+
+msgid "Prs & Temp"
+msgstr "Bas&Sic"
+
+msgid "Abgaswegemessung"
+msgstr ""
+
+msgid "Ringspaltmessung"
+msgstr ""
+
+#, fuzzy
+msgid "HVACR_ID"
+msgstr "HVACR"
+
+msgid "A/C"
+msgstr "A/C"
+
+msgid "Wireless Mode: APP Mode"
+msgstr "Kablosuz Mod: APP Mod"
+
+msgid "Wireless Mode: LINK Mode"
+msgstr "Kablosuz Mod: LINK Modu"
+
+msgid "Reading Layout"
+msgstr "Okuma"
+
+msgid "Large"
+msgstr "Genis"
+
+msgid "Medium"
+msgstr "Orta"
+
+msgid "Small"
+msgstr "Dar"
+
+msgid "Reading Size: Large"
+msgstr "Okuma Boyutu: Genis"
+
+msgid "Reading Size: Medium"
+msgstr "Okuma Boyutu: Orta"
+
+msgid "Reading Size: Small"
+msgstr "Okuma Boyuru: Küçük"
+
+#.
+#. LOGS Menu
+#. LOGS Menu Items (Maxlen=32)
+#. ------------------------------------------------------------------
+msgid "All"
+msgstr "Hepsi"
+
+msgid "Delete Logs"
+msgstr "Kayit Sil"
+
+msgid "Graph Logs"
+msgstr "Grafik Kayitlari"
+
+#.
+#. GRAPH LOGS Menu
+#. GRAPH LOGS Menu Items (Maxlen=32)
+#. ------------------------------------------------------------------
+msgid "LOG SELECTION"
+msgstr "KAYIT SEÇiM"
+
+msgid "Setup Trends"
+msgstr "Trand Ayarlari"
+
+msgid "View Trend A"
+msgstr "A Trendini Gör"
+
+msgid "View Trend B"
+msgstr "B Trendini Gör"
+
+msgid "View Trend C"
+msgstr "C Trendini Gör"
+
+msgid "View Trend D"
+msgstr "D Trendini Gör"
+
+msgid "View Dual Trend"
+msgstr "Çift Trend Gör"
+
+msgid "View Quad Trend"
+msgstr "4'lü Trend Gör"
+
+#.
+#. SETUP TRENDS Menu
+#. ------------------------------------------------------------------
+#. SETUP TRENDS Menu Title (Maxlen=17)
+msgid "MT_SETUP TRENDS"
+msgstr "AYAR TRENDLERI"
+
+msgid "Trend A"
+msgstr "Trend A"
+
+msgid "Trend B"
+msgstr "Trend B"
+
+msgid "Trend C"
+msgstr "Trend C"
+
+msgid "Trend D"
+msgstr "Trend D"
+
+#.
+#. SCREEN TRENDS Menu
+#. ONSCREEN TRENDS Menu Items (Maxlen=32)
+#. ------------------------------------------------------------------
+msgid "MT_ON-SCREEN TRENDS"
+msgstr "EKRAN TRENDLERI"
+
+#.
+#. TOOLS Menu Items (Maxlen=32)
+#. ------------------------------------------------------------------
+msgid "Manual Air Zero"
+msgstr "Manuel Sifirlama"
+
+msgid "Manual Prs Zero"
+msgstr "Manuel Basinç Sifirlama"
+
+msgid "Setup Midstream Finder"
+msgstr "Orta Akis Bulma Ayarlari"
+
+msgid "Start Midstream Finder"
+msgstr "Orta Akis Bulucu Baslat"
+
+#. SETUP - MAIN PURGE Menu Title (Maxlen=16)
+#. - MAIN PURGE Menu Items (Maxlen=32)
+#. ------------------------------------------------------------------
+msgid "Main Purge Duration"
+msgstr "Ana Çekim Süresi"
+
+msgid "Main Purge Interval"
+msgstr "Ana Çekim Zaman Araligi"
+
+msgid "Auto Zero"
+msgstr "Otomatik Sifirlama"
+
+#.
+#. EXHAUST GAS RELATED TEXT
+#. ------------------------------------------------------------------
+#. Field Name (Maxlen=16)
+msgid "ID Number"
+msgstr "ID Numarasi"
+
+#. STATUS LINE
+#. ------------------------------------------------------------------
+#. STATUS Line Item (Maxlen=20)
+msgid "PAUSED"
+msgstr "DURDURULDU"
+
+#. STATUS Page
+#. ------------------------------------------------------------------
+#. STATUS Page Item (Maxlen=20)
+msgid "Model"
+msgstr "Model"
+
+msgid "Software"
+msgstr "Yazilim"
+
+msgid "Serial Nº"
+msgstr "Seri No"
+
+msgid "Asset Nº"
+msgstr "Baslik No"
+
+msgid "Battery (Charging)"
+msgstr "Pil ( Doluyor )"
+
+msgid "Sensors Fitted"
+msgstr "Takili Sensörler"
+
+#. STATUS Page Item (Calibration Due in days) (Maxlen=14)
+msgid "CAL DUE"
+msgstr "SONRAKÍ KAL."
+
+msgid "CAL OVERDUE"
+msgstr "KAL SÜRESÍ GEÇTÍ"
+
+#. STATUS Page Item (Wireless as in Radio. Don't mention Bluetooth) (Maxlen=12)
+msgid "WIRELESS"
+msgstr "KABLOSUZ"
+
+#.
+#. SECURITY PIN TEXT
+#. ------------------------------------------------------------------
+#. Menu & Title Items (Maxlen=20)
+msgid "PIN Code"
+msgstr "PIN Kodu"
+
+msgid "New PIN Code"
+msgstr "Yeni PIN Kodu"
+
+msgid "Enter Security PIN"
+msgstr "PIN giriniz"
+
+msgid "Set Security PIN"
+msgstr "PIN ayarlayin"
+
+msgid "Change Security PIN"
+msgstr "PIN Degistirin"
+
+#.
+#. INSTALLATION
+#. ------------------------------------------------------------------
+#. Edit Item (Maxlen=32)
+msgid "CONFIRM LANGUAGE"
+msgstr "DÍLÍ ONAYLA"
+
+msgid "CONFIRM OPERATING REGION"
+msgstr "BÖLGEYÍ ONAYLA"
+
+#. ------------------------------------------------------------------
+#.
+#. EFFICIENCY Edit
+#. ------------------------------------------------------------------
+#. NET/GROSS (EFFICIENCY) (Maxlen=12)
+msgid "Net"
+msgstr "Net"
+
+msgid "Gross"
+msgstr "Brüt"
+
+#. CONDENSING (EFFICIENCY) (Maxlen=20)
+msgid "Net Condensing"
+msgstr "Net Yogusan"
+
+msgid "Gross Condensing"
+msgstr "Brüt Yogusan"
+
+#.
+#. SELECT PRINT DEVICE SUBMENU
+#. ------------------------------------------------------------------
+#. Title  (Maxlen=32)
+msgid "Select Print Device"
+msgstr "Yazici Seçin"
+
+msgid "Printer"
+msgstr "Yazici"
+
+msgid "IRP2/IRP3"
+msgstr "IRP2/IRP3"
+
+msgid "KANE APP"
+msgstr "KANE APP"
+
+msgid "USB"
+msgstr "USB"
+
+#.
+#. REPORT SELECTION Edit
+#. ------------------------------------------------------------------
+#. REPORT NUMBER Edit Item  (Will be followed by UPPER or LOWER) (Maxlen=20)
+msgid "Report Nº"
+msgstr "Rapor No"
+
+msgid "Report Nº Lower"
+msgstr "Rapor No Alt"
+
+msgid "Report Nº Upper"
+msgstr "Rapor No Üst"
+
+#.
+#. TRENDLINES Edit
+#. ------------------------------------------------------------------
+#. TRENDLINES Edit Item (Maxlen=32)
+msgid "Line"
+msgstr "Satir"
+
+msgid "Line Colour"
+msgstr "Satir Rengi"
+
+msgid "Y Axis Limit"
+msgstr "Y Eksen Limiti"
+
+msgid "Y Axis Limit Lower"
+msgstr "Y Eksen Limiti Alt"
+
+msgid "Y Axis Limit Upper"
+msgstr "Y Eksen Limiti Üst"
+
+#.
+#. TRENDLINES DISPLAY
+#. ------------------------------------------------------------------
+#. TRENDTYPE  (Maxlen=32)
+msgid "Trend"
+msgstr "Trend"
+
+msgid "Trend Type"
+msgstr "Trend Tipi"
+
+#. ------------------------------------------------------------------
+#. Confirm Stop / Delete (logs) question
+msgid "Confirm Delete ?"
+msgstr "Silme Onayi ?"
+
+msgid "Confirm Stop ?"
+msgstr "Durma Onayi ?"
+
+#.
+#. General Phrases/Words Used in Many Places Incluing Printout
+#. ------------------------------------------------------------------
+#. Various Words for Fuel
+msgid "Fuel Type"
+msgstr "Yakit Tipi"
+
+msgid "FuelType"
+msgstr "YakitTipi"
+
+#. Fuel Shortform (Maxlen=4)
+msgid "FUEL"
+msgstr "YAKIT"
+
+msgid "Fuel"
+msgstr "YKT"
+
+#. Measurement Page (Maxlen=4)
+msgid "Page"
+msgstr "Sayfa"
+
+msgid "Pg"
+msgstr "Syf"
+
+#. Used in choice menus YES or NO
+msgid "NO"
+msgstr "HAYIR"
+
+msgid "YES"
+msgstr "EVET"
+
+#. Used in context of an enabled/disabled state
+msgid "ON"
+msgstr "AÇ"
+
+msgid "OFF"
+msgstr "KAPA"
+
+#. Start/Stop (An Action) (Maxlen=8)
+msgid "START"
+msgstr "BASLA"
+
+msgid "STOP"
+msgstr "DUR"
+
+#. Date & Time (Maxlen=20)
+msgid "SET TIME"
+msgstr "ZAMAN AYAR"
+
+msgid "SET DATE"
+msgstr "TARiH AYAR"
+
+msgid "Adjust Date/Time"
+msgstr "Tarih/Saat Ayarla"
+
+#. Date & Time Labels (Maxlen=8)
+msgid "Time"
+msgstr "Zaman"
+
+msgid "Date"
+msgstr "Tarih"
+
+#. Time Format HH:MM:SS (Maxlen=8)
+msgid "HH:MM:SS"
+msgstr "SS:DD:SS"
+
+msgid "DD/MM/YY"
+msgstr "GG/AA/YY"
+
+#. General Use & Printout Throughout KANEGRFX (Maxlen=16)
+msgid "Alarm"
+msgstr "Alarm"
+
+msgid "Alarm Time"
+msgstr "Alarm Süresi"
+
+msgid "CO Alarm"
+msgstr "CO Alarm"
+
+msgid "CO Alarm Level"
+msgstr "CO Alarm Seviyesi"
+
+msgid "Ref O2"
+msgstr "Ref O2"
+
+msgid "Ref O2(NO)"
+msgstr "Ref O2"
+
+msgid "Simulated NO2"
+msgstr "Simüle NO2"
+
+msgid "Air Quality"
+msgstr ""
+
+#.
+#. READING LABELS.
+#. ------------------------------------------------------------------
+#. Calculated CO2/O2 label Minlen=1, Maxlen=4)
+msgid "O2c"
+msgstr "O2h"
+
+msgid "CO2c"
+msgstr "CO2h"
+
+#. Normalised Gas label Suffix (Minlen=1, Maxlen=1)
+msgid "n"
+msgstr "n"
+
+#. Battery Reading Shortform Label (Maxlen=3)
+msgid "BAT"
+msgstr "PiL"
+
+#. Battery Reading Label (Maxlen=8)
+msgid "BATTERY"
+msgstr "PiL"
+
+#. Barometer label. (Maxlen=7)
+msgid "BARO"
+msgstr "BARO"
+
+#. Barometer Shortform label. (Maxlen=3)
+msgid "BP"
+msgstr "BB"
+
+#. Ambient/Flue/Inlet/NET Temperature label. (Maxlen=8)
+msgid "AMBIENT"
+msgstr "ORTAM"
+
+msgid "T FLUE"
+msgstr "GAZ S"
+
+msgid "T INLET"
+msgstr "GIRIs Sic."
+
+msgid "T NET"
+msgstr "NET Sic."
+
+#. Amient/Flue/Inlet Temperature Shortform label. (Minlen=2; Maxlen=2)
+msgid "Ta"
+msgstr "Os"
+
+msgid "Tf"
+msgstr "Gs"
+
+msgid "Ti"
+msgstr "Gs"
+
+#. Volumetric Flow label. (Maxlen=8)
+msgid "FLOW"
+msgstr "AKIS"
+
+#. Total Loss (Maxlen=8)
+msgid "LOSS"
+msgstr "KAYIP"
+
+#. Total Loss Shortform (Minlen=3, Maxlen=3)
+msgid "LOS"
+msgstr "KYP"
+
+#. CO Loss (Maxlen=8)
+msgid "CO LOSS"
+msgstr "CO KAYIP"
+
+#. CO Loss Shortform (Minlen=3, Maxlen=3)
+msgid "C/L"
+msgstr "K/K"
+
+#. DRY Loss (Maxlen=8)
+msgid "DRY LOSS"
+msgstr "KURU KAYIP"
+
+#. DRY Loss Shortform (Minlen=3, Maxlen=3)
+msgid "DRY"
+msgstr "KUR"
+
+#. WET Loss (Maxlen=8)
+msgid "WET LOSS"
+msgstr "ISLAK KAYIP"
+
+#. DRY Loss Shortform (Minlen=3, Maxlen=3)
+msgid "WET"
+msgstr "ISL"
+
+#. Poison Index Label (Maxlen=8)
+msgid "P INDEX"
+msgstr "Z Índeks"
+
+#. Poison Index Shortform Label (Minlen=3, Maxlen=3)
+msgid "PI "
+msgstr "ZH"
+
+#. Ratio Label (Maxlen=7)
+msgid "CO/CO2"
+msgstr "CO/CO2"
+
+#. Ratio Shortform Label (Maxlen=3)
+msgid "R"
+msgstr "O"
+
+#. Various Net/Gross Efficiency Value labels. Long:(Maxlen=8) Short:(Maxlen=3)
+msgid "Eff (N)"
+msgstr "Ver. (N)"
+
+msgid "En"
+msgstr "Vn"
+
+msgid "Eff (G)"
+msgstr "Ver. (B)"
+
+msgid "Eg"
+msgstr "Vb"
+
+msgid "EffC(N)"
+msgstr "VerH(N)"
+
+msgid "Ecn"
+msgstr "Vhn"
+
+msgid "EffC(G)"
+msgstr "VerH(B)"
+
+msgid "Ecg"
+msgstr "Vhb"
+
+#. Efficiency Condensing Italy label. (Maxlen=8)
+#, fuzzy
+msgid "ET"
+msgstr "ISL"
+
+#. Efficiency SENSIBLE Italy label. (Maxlen=8)
+msgid "Es"
+msgstr "Vh"
+
+#. Efficiency Standard Italy label. (Maxlen=8)
+msgid "Ec"
+msgstr "Vh"
+
+#. Efficiency Germanic Shortform label. (Maxlen=3)
+msgid "Eff"
+msgstr "Ver"
+
+#. Excess Air label. (Maxlen=8)
+msgid "XS AIR"
+msgstr "Fazla Hava"
+
+#. Excess Air Shortform label. (Minlen=3; Maxlen=3)
+msgid "XA "
+msgstr "FH"
+
+#. Lambda label. (Maxlen=8)
+msgid "LAMBDA"
+msgstr "LAMBDA"
+
+#. Draught label. (Maxlen=7)
+msgid "DRAUGHT"
+msgstr "ÇEKÍS"
+
+#. Draught Shortform label. (Maxlen=3)
+msgid "DFT"
+msgstr "CKS"
+
+#. Pressure label. (Maxlen=3)
+msgid "PRESSURE"
+msgstr "BASINC"
+
+#. Pressure Shortform label. (Maxlen=3)
+msgid "PRS"
+msgstr "BAS"
+
+#. Vacuum label. (Maxlen=7)
+msgid "VACUUM"
+msgstr "VAKUM"
+
+#. Volume Shortform label. (Maxlen=3)
+msgid "VAC"
+msgstr "VAK"
+
+#. Volume label. (Maxlen=7)
+msgid "VOLUME"
+msgstr "HACiM"
+
+#. Volume Shortform label. (Maxlen=3)
+msgid "VOL"
+msgstr "HCM"
+
+#. Time (quantity) Shortform label. (Maxlen=3)
+msgid "T"
+msgstr "Z"
+
+#. Humidity label. (Maxlen=8)
+msgid "HUMIDITY"
+msgstr "NEM"
+
+#. Humidity Shortform label. (Maxlen=3)
+msgid "rh"
+msgstr "%"
+
+#. Not Fitted / Not Available Shortform (Maxlen=5)
+msgid "-N/F-"
+msgstr "YOK"
+
+#. Fuel Flow label [ITALIAN ONLY] (Maxlen=8)
+msgid "FUEL FLO"
+msgstr "YAKIT AKI"
+
+#. Fuel Flow label Shortform [Placehold Text for ITALIAN & ENGLISH ONLY] (Maxlen=3)
+msgid "FLO_FUEL"
+msgstr "YAK AKI"
+
+#. UNI10845 Draught label (Maxlen=8)
+msgid "Pc"
+msgstr "Pc"
+
+#. UNI10845 Draught label Shortform (Maxlen=3)
+msgid "Pc_SF"
+msgstr "Pc_SF"
+
+#. Refrigerant Condesning Temp label. (Maxlen=8)
+msgid "COND_LF"
+msgstr "YOG_LF"
+
+#. Refrigerant Condesning Temp Shortform label. (Maxlen=3)
+msgid "COND_SF"
+msgstr "YOG_SF"
+
+#. Refrigerant Evaporation Temp label. (Maxlen=8)
+msgid "EV"
+msgstr "BUH"
+
+#. Refrigerant Evaporation Temp Shortform label. (Maxlen=3)
+msgid "EV_SF"
+msgstr "BS"
+
+#. Refrigerant Superheat Temp label. (Maxlen=9)
+msgid "SUPERHEAT"
+msgstr "SUPERISI"
+
+#. Refrigerant Superheat Temp Shortform label. (Maxlen=3)
+msgid "SH"
+msgstr "SI"
+
+#. Refrigerant Subcool Temp label. (Maxlen=8)
+msgid "SUBCOOL"
+msgstr "ALTSOGUTMA"
+
+#. Refrigerant Subcool Temp Shortform label. (Maxlen=3)
+msgid "SC_SF"
+msgstr "AS"
+
+#. Refrigerant low pressure label. (Maxlen=8)
+msgid "LP"
+msgstr "DUSUK BAS"
+
+#. Refrigerant low pressure Shortform label. (Maxlen=3)
+msgid "LP_SF"
+msgstr "DB"
+
+#. Refrigerant high pressure label. (Maxlen=8)
+msgid "HP"
+msgstr "YUKSEK BAS"
+
+#. Refrigerant high pressure Shortform label. (Maxlen=3)
+msgid "HP_SF"
+msgstr "YB"
+
+#. Refrigerant (Maxlen=8)
+msgid "REFRIGERANT"
+msgstr "SOGUTUCU"
+
+#. Swap Probes Menu Title (Maxlen=20)
+msgid "Arrange High/Low"
+msgstr "Yuksek/Dusuk Ayar"
+
+#. Swap temperature probes probes (Maxlen=20)
+msgid "Swap WPCA2 High/Low"
+msgstr "Yuksek/Dusuk WPCA2 Degistir"
+
+#. Swap pressure probes (Maxlen=20)
+msgid "Swap WPP1 High/Low"
+msgstr "Yuksek/Dusuk WPP1 Degistir"
+
+#. WPCA2 temperature probes (Maxlen=10)
+msgid "WPCA2 Low"
+msgstr "WPCA2 Düsük"
+
+#. WPCA2 temperature probes (Maxlen=10)
+msgid "WPCA2 High"
+msgstr "WPCA2 Yüksek"
+
+#. Swap pressure probes (Maxlen=10)
+msgid "WPP1 Low"
+msgstr "WPP1 Düsük"
+
+#. Swap pressure probes (Maxlen=10)
+msgid "WPP1 High"
+msgstr "WPP1 Yüksek"
+
+#.
+#. MIDSTREAM
+#. ------------------------------------------------------------------
+msgid "Midstream"
+msgstr "OrtaAkim"
+
+msgid "Temperature Limit"
+msgstr "Sicaklik Limiti"
+
+msgid "Draught Limit"
+msgstr "Çekis Limiti"
+
+#.
+#. COMMON LOGGING & PRINTING TEXT
+#. ------------------------------------------------------------------
+msgid "Duration"
+msgstr "Süre"
+
+msgid "Interval"
+msgstr "Aralik"
+
+msgid "Start Test"
+msgstr "Test Basla"
+
+msgid "Log Stored"
+msgstr "Hafizaya Alindi"
+
+msgid "View Logs"
+msgstr "Kayitlari Gör"
+
+msgid "Delete All Logs"
+msgstr "Tüm Kayitlari Sil"
+
+msgid "Confirm"
+msgstr "Onay"
+
+msgid "Log Saved"
+msgstr "Hafizaya Kaydedildi"
+
+msgid "Log Number"
+msgstr "Kayit No"
+
+msgid "Memory Full"
+msgstr "Hafiza Dolu"
+
+msgid "Print Report"
+msgstr "Rapor Yazdir"
+
+#. Status Page-6 Title (Maxlen=20)
+msgid "Memory Usage"
+msgstr "Hafiza Kullanimi"
+
+#. Popup Warning Message on 1-line (Maxlen=16)
+msgid "MEMORY FULL"
+msgstr "HAFIZA DOLU"
+
+#. Popup Warning Message on 2-lines (Maxlen=32)
+msgid "MEMORY ERROR"
+msgstr "HAFIZA HATASI"
+
+#. Log (As in log number: LOG 1 or LOG 2)
+msgid "LOG"
+msgstr "KAYIT"
+
+#.
+#. ADE TEST ITEMS
+#. ------------------------------------------------------------------
+#. ADE TEST Menu Title (Maxlen=20)
+msgid "ADE TEST"
+msgstr ""
+
+#. ADE TEST Menu Items (Maxlen=20)
+msgid "COMPLETE TEST"
+msgstr ""
+
+msgid "COMPLETE"
+msgstr ""
+
+msgid "MINIMAL"
+msgstr ""
+
+msgid "ROOM CO TEST"
+msgstr "ODA CO TESTi"
+
+msgid "DRAUGHT TEST"
+msgstr "CEKiS TESTi"
+
+msgid "FINISH TEST"
+msgstr ""
+
+msgid "EMISSIONS ÉVALUÉES"
+msgstr ""
+
+#.
+#. Attestation d'entretien (ADE) TEST
+#. ------------------------------------------------------------------
+#. ADE TEST MENU Item (Maxlen=28)
+msgid "Attestation d'Entretien"
+msgstr ""
+
+msgid "ADE"
+msgstr ""
+
+msgid "Nouvelle attestation"
+msgstr ""
+
+msgid "Contrôle de CO ambiant"
+msgstr ""
+
+msgid "Contrôle de combustion"
+msgstr ""
+
+msgid "CO"
+msgstr ""
+
+msgid "CO Maximum"
+msgstr ""
+
+msgid "Bon"
+msgstr ""
+
+msgid "DGI"
+msgstr ""
+
+msgid "Résultat"
+msgstr ""
+
+msgid "Continuer"
+msgstr ""
+
+msgid "Mettre la sonde à 50cm de la chaudière"
+msgstr ""
+
+msgid "Mettre la sonde dans le conduit"
+msgstr ""
+
+msgid "Rendement évalué"
+msgstr ""
+
+msgid "Rendement de référence"
+msgstr ""
+
+msgid "NOx évalués"
+msgstr ""
+
+msgid "NOx de référence"
+msgstr ""
+
+msgid "Emis. év. des poussières"
+msgstr ""
+
+msgid "Poussieres de référence"
+msgstr ""
+
+msgid "COV évalués"
+msgstr ""
+
+msgid "COV de référence"
+msgstr ""
+
+msgid "Opacité des fumées"
+msgstr ""
+
+#. UNI11137 Italian Tightness TEST Edit
+#. ------------------------------------------------------------------
+#. UNI11137 TEST Menu Items (Maxlen=20)
+msgid "UNI11137"
+msgstr ""
+
+msgid "Setup UNI11137 Test"
+msgstr ""
+
+msgid "VOLUME CALCULATION"
+msgstr ""
+
+msgid "PIPE LENGTH"
+msgstr ""
+
+msgid "PIPE DIAMETER"
+msgstr ""
+
+msgid "PIPE VOLUME"
+msgstr ""
+
+msgid "SYRINGE VOLUME"
+msgstr ""
+
+msgid "INCLUDE GAS COUNTER"
+msgstr ""
+
+msgid "MANUAL INPUT"
+msgstr ""
+
+msgid "LENGTH & DIAMETER"
+msgstr ""
+
+msgid "DIRECT MEAS."
+msgstr ""
+
+msgid "Attach pressure meter and extract the test volume. Then, Press ENTER"
+msgstr ""
+
+msgid "Inject test volume back into the system. Then, Press ENTER"
+msgstr ""
+
+msgid "Shut the valve. Then press ENTER"
+msgstr ""
+
+msgid "Let by test running. Please wait"
+msgstr ""
+
+msgid "Shut valve and press ENTER to begin stabilisation period"
+msgstr ""
+
+msgid "Waiting for stabilisation period. Please wait"
+msgstr ""
+
+msgid "Press ENTER to continue"
+msgstr ""
+
+msgid "Leak test running. Please wait"
+msgstr ""
+
+msgid ""
+"Test complete. The estimated leak is compensated for the viscosity of air"
+msgstr ""
+
+msgid ""
+"Test complete. The normalised leak is normalised to reference pressure for "
+"the selected fuel"
+msgstr ""
+
+msgid "Nat Gas"
+msgstr ""
+
+msgid "LPG"
+msgstr ""
+
+msgid "AIR"
+msgstr ""
+
+msgid "TEST MEDIUM"
+msgstr ""
+
+msgid "Installation Type"
+msgstr ""
+
+msgid "Non Domestic"
+msgstr ""
+
+msgid "Preliminary Test"
+msgstr ""
+
+msgid "PRELIMINARY TEST"
+msgstr ""
+
+msgid "Domestic"
+msgstr ""
+
+msgid "Meas. Leak"
+msgstr ""
+
+msgid "Est. Leak"
+msgstr ""
+
+msgid "Norm. Leak"
+msgstr ""
+
+msgid "SYSTEM VOLUME"
+msgstr ""
+
+msgid "Installation Family"
+msgstr ""
+
+msgid "6th"
+msgstr ""
+
+msgid "7th"
+msgstr ""
+
+msgid "Low Pressure"
+msgstr ""
+
+msgid "High Pressure"
+msgstr ""
+
+msgid "Time Remaining"
+msgstr ""
+
+msgid "Prs Increase"
+msgstr ""
+
+msgid "SYS VOL"
+msgstr ""
+
+msgid "PRS DIFF"
+msgstr ""
+
+msgid "PIPE LEN"
+msgstr ""
+
+msgid "PIPE DIA"
+msgstr ""
+
+msgid "RISE"
+msgstr ""
+
+msgid "LET BY TIME"
+msgstr ""
+
+msgid "TEST TIME"
+msgstr ""
+
+msgid "TEST VOL"
+msgstr ""
+
+msgid "INST. TYPE"
+msgstr ""
+
+msgid "INST. FAMILY"
+msgstr ""
+
+msgid "METHOD"
+msgstr ""
+
+#, fuzzy
+msgid "INDIRECT TEST"
+msgstr "CEKiS TESTi"
+
+#, fuzzy
+msgid "Diff Pressure"
+msgstr "Basinç"
+
+#. UNI10845 TEST Menu Item (Maxlen=12)
+#. ------------------------------------------------------------------
+msgid "UNI10845"
+msgstr ""
+
+#.
+#. AVERAGE TEST (AKA MITTELWERT & UNI10389, etc)
+#. MITTELWERT TEST Menu Items (Maxlen=20)
+#. ------------------------------------------------------------------
+#. UNI10389 Italian Average TEST Edit``
+#. ------------------------------------------------------------------
+#. UNI10389 TEST Menu Item (Maxlen=20)
+#, fuzzy
+msgid "Setup UNI10389-1 Test"
+msgstr "Ortalama Testi Ayarla"
+
+msgid "Average Test"
+msgstr "Ortalama Testi"
+
+msgid "View Average Reports"
+msgstr "Ortalama Raporlarini Gör"
+
+msgid "Setup Average Test"
+msgstr "Ortalama Testi Ayarla"
+
+msgid "Average Test Type"
+msgstr "Ortalama Test Tipi"
+
+msgid "Custom"
+msgstr "Kisisel"
+
+msgid "Sampling Interval"
+msgstr "Numune Araligi"
+
+msgid "Sampling Duration"
+msgstr "Numune Süresi"
+
+msgid "Test ID"
+msgstr "Test No"
+
+#. MITTELWERT TEST Instruction Items:
+msgid "Fire Burner & Locate Midstream"
+msgstr "Yanma & Orta Nokta Bulma"
+
+msgid "Wait For Stable Readings"
+msgstr "Stabil Okuma icin Bekleyin"
+
+msgid "UNI10389-2"
+msgstr ""
+
+msgid "A1"
+msgstr "A1"
+
+msgid "A2"
+msgstr "A2"
+
+msgid "B"
+msgstr "B"
+
+msgid "SET 1"
+msgstr "SET 1"
+
+msgid "SET 2"
+msgstr "SET 2"
+
+msgid "SET 3"
+msgstr "SET 3"
+
+msgid "AVERAGE"
+msgstr "ORTALAMA"
+
+#. EXCHANGE TEST Edit
+#. ------------------------------------------------------------------
+#. EXCHANGE TEST Menu Item (Maxlen=20)
+#, fuzzy
+msgid "Exchange Test"
+msgstr "Ortalama Testi"
+
+#, fuzzy
+msgid "Setup Exchange Test"
+msgstr "Ortalama Testi Ayarla"
+
+msgid "Blower Off"
+msgstr ""
+
+msgid "Blower On"
+msgstr ""
+
+msgid "Turn on the blower. Then press ENTER"
+msgstr ""
+
+#. Commission TEST Edit``
+#. ------------------------------------------------------------------
+#. Commission TEST Menu Item (Maxlen=20)
+msgid "Commission Test"
+msgstr ""
+
+#, fuzzy
+msgid "Full Test"
+msgstr "Pompa testleri"
+
+msgid "Max Gas"
+msgstr ""
+
+msgid "Min Gas"
+msgstr ""
+
+msgid "Setup Commission Test"
+msgstr ""
+
+msgid "FLUE INTEGRITY"
+msgstr ""
+
+#, fuzzy
+msgid "MAX GAS FLOW"
+msgstr "DÜsÜK AKIs"
+
+#, fuzzy
+msgid "MIN GAS FLOW"
+msgstr "DÜsÜK AKIs"
+
+msgid "FLOW AND RETURN"
+msgstr ""
+
+msgid "Max Gas CO"
+msgstr ""
+
+msgid "Max Gas CO2"
+msgstr ""
+
+msgid "Max Gas O2"
+msgstr ""
+
+#, fuzzy
+msgid "Max Gas CO/CO2"
+msgstr "CO/CO2"
+
+msgid "Flue Integrity CO2"
+msgstr ""
+
+msgid "Flue Integrity O2"
+msgstr ""
+
+msgid "Set Boiler To Max Gas. Then, Press Enter"
+msgstr ""
+
+msgid "Put Probe In Fresh Air. Then, Press Enter"
+msgstr ""
+
+msgid ""
+"Insert Probe Into Air Inlet. Then, When Readings Are Stable, Press Enter"
+msgstr ""
+
+msgid "Insert Probe Into Flue. Then, When Readings Are Stable, Press Enter"
+msgstr ""
+
+msgid "Set Boiler To Min Gas. Then, When Readings Are Stable, Press Enter"
+msgstr ""
+
+msgid ""
+"Connect Flow And Return Probes. Then, When Readings Are Stable, Press Enter"
+msgstr ""
+
+#. Room TEST Edit``
+#. ------------------------------------------------------------------
+#. Room TEST Menu Item (Maxlen=20)
+#, fuzzy
+msgid "Room Test"
+msgstr "Pompa testleri"
+
+#, fuzzy
+msgid "Setup Room Test"
+msgstr "Ortalama Testi Ayarla"
+
+#, fuzzy
+msgid "Test Type"
+msgstr "Trend Tipi"
+
+msgid "General"
+msgstr ""
+
+msgid "Type A Space Heater"
+msgstr ""
+
+msgid "Space Heater"
+msgstr ""
+
+msgid "Type A Water Heater"
+msgstr ""
+
+msgid "Water Heater"
+msgstr ""
+
+msgid "Type A Cooker"
+msgstr ""
+
+msgid "Type B Boiler, Open Flue"
+msgstr ""
+
+msgid "Boiler"
+msgstr ""
+
+msgid "Type C Sealed Appliance"
+msgstr ""
+
+msgid "Appliance"
+msgstr ""
+
+#, fuzzy
+msgid "Migration"
+msgstr "Süre"
+
+msgid "Sweep"
+msgstr ""
+
+msgid "Maximum"
+msgstr ""
+
+#, fuzzy
+msgid "Test"
+msgstr "Test No"
+
+#, fuzzy
+msgid "Tests"
+msgstr "Pompa testleri"
+
+msgid "CO2 ppm"
+msgstr ""
+
+msgid "CO ppm"
+msgstr ""
+
+msgid "Valid"
+msgstr ""
+
+msgid "Invalid"
+msgstr ""
+
+msgid "Kane79 Cal"
+msgstr ""
+
+msgid "Room"
+msgstr ""
+
+msgid "KANE79"
+msgstr ""
+
+msgid "Limit"
+msgstr ""
+
+msgid "KANE79 Bat 1"
+msgstr ""
+
+msgid "KANE79 Bat 2"
+msgstr ""
+
+msgid "KANE79 Bat 3"
+msgstr ""
+
+msgid "KANE79 Bat 4"
+msgstr ""
+
+msgid "WCO1"
+msgstr ""
+
+msgid "WCO2"
+msgstr ""
+
+msgid "WCO3"
+msgstr ""
+
+msgid "WCO4"
+msgstr ""
+
+#, fuzzy
+msgid "CO Limit"
+msgstr "Y Eksen Limiti"
+
+#. Sweep TEST Edit``
+#. ------------------------------------------------------------------
+#. Sweep TEST Menu Item (Maxlen=20)
+#, fuzzy
+msgid "Sweep Test"
+msgstr "Ortalama Testi"
+
+#, fuzzy
+msgid "Setup Sweep Test"
+msgstr "Ortalama Testi Ayarla"
+
+#.
+#. TIMED LOGGING Edit
+#. TIMED LOGGING Menu Items (Maxlen=20)
+#. ------------------------------------------------------------------
+msgid "Measure Mode"
+msgstr "Ölçüm Modu"
+
+msgid "Total Samples"
+msgstr "Toplam Numune"
+
+msgid "Samples"
+msgstr "Numuneler"
+
+msgid "Timed Logging"
+msgstr "Zamanli Kayit"
+
+msgid "Stop Timed Logging"
+msgstr "Zamanli Kaydi Durdur"
+
+msgid "Setup Timed Logging"
+msgstr "Zamanli Kayit Ayarla"
+
+msgid "Delete Log A"
+msgstr "Kayit A Silme"
+
+msgid "Delete Log B"
+msgstr "Kayit B Silme"
+
+#. ------------------------------------------------------------------
+#. TIGHTNESS TEST Edit
+#. ------------------------------------------------------------------
+#. TIGHTNESS TESTS Menu Item (Maxlen=20)
+msgid "TIGHTNESS TEST"
+msgstr "SIKILIK TESTi"
+
+msgid "Tightness Test"
+msgstr "Sikilik Testi"
+
+msgid "Tightness Test Setup"
+msgstr "Sikilik Testi Ayarla"
+
+msgid "Stabilisation time"
+msgstr "Stabilizasyon Süresi"
+
+msgid "Stab time"
+msgstr "Stab Süre"
+
+msgid "Test time"
+msgstr "Test Süresi"
+
+msgid "Let by time"
+msgstr "Let By Süresi"
+
+msgid "Tightness Time"
+msgstr "Sikilik Süresi"
+
+msgid "Let by Test"
+msgstr "Let By Testi"
+
+msgid "Zero Pressure"
+msgstr "Sifirlama Basinci"
+
+msgid "Start Pressure"
+msgstr "Baslangiç Basinci"
+
+msgid "End Pressure"
+msgstr "Bitis Basinci"
+
+msgid "Current Pressure"
+msgstr "Anlik Basinç"
+
+msgid "Stabilisation"
+msgstr "Stabilizasyon"
+
+msgid "Let by Start"
+msgstr "Let By Basla"
+
+msgid "Let by End"
+msgstr "Let By Bitis"
+
+msgid "Tightness Start"
+msgstr "Sikilik Basla"
+
+msgid "Tightness End"
+msgstr "Sikilik Bitir"
+
+msgid "Let by"
+msgstr "Let By"
+
+msgid "Delta"
+msgstr "Delta"
+
+msgid "Tightness"
+msgstr "Sikilik"
+
+msgid "Min"
+msgstr "Min"
+
+#. ------------------------------------------------------------------
+#.
+#. BTGUI setup. For setting up bluetooth devices
+#. ------------------------------------------------------------------
+msgid "Add Device"
+msgstr "Cihaz Ekle"
+
+msgid "Remove Device"
+msgstr "Cihaz Çikar"
+
+msgid "Device Status"
+msgstr "Cihaz Durumu"
+
+msgid "WLEM Version"
+msgstr "WLEM Versiyonu"
+
+msgid "WLEM Error"
+msgstr "WLEM Hatasi"
+
+msgid "WPCA2 Temperature Clamp"
+msgstr "WPCA2 Sicaklik Mandali"
+
+msgid "DTHA2 Anemometer"
+msgstr "DTHA2 Anemometre"
+
+msgid "KANE79 Ambient CO Monitor"
+msgstr "KANE79 ORtam CO ölçer"
+
+msgid "WPP1 Wireless Pressure Probe"
+msgstr "WPP1 KAblosuz Basinç Probu"
+
+msgid "Not Paired"
+msgstr "Baglanmadi"
+
+msgid "Paired Devices"
+msgstr "Bagli Cihazlar"
+
+msgid "S/N"
+msgstr "Seri No"
+
+msgid "BAT OK"
+msgstr "PiL OK"
+
+msgid "BAT LOW"
+msgstr "DÜsÜK PÍL"
+
+#.
+#. Printer Footer Signature Boxes
+#. ------------------------------------------------------------------
+#. Footer Text (Maxlen=24)
+msgid "CUSTOMER"
+msgstr "MÜSTERi"
+
+msgid "APPLIANCE"
+msgstr "UYGULAMA"
+
+#, fuzzy
+msgid "REGISTRATION Nº"
+msgstr "KAYIT NO"
+
+msgid "REFERENCE"
+msgstr "REFERANS"
+
+#.
+#. WARNINGS & ALARMS
+#. ------------------------------------------------------------------
+#. Popup Title for Alarms & Warnings (Maxlen=26)
+msgid "TOXIC GAS ALARM"
+msgstr "ZEHÍRLÍ GAZ ALARMI"
+
+msgid "BATTERY LOW ALARM"
+msgstr "DÜsÜK PÍL UYARISI"
+
+msgid "WATERTRAP CHECK WARNING"
+msgstr "SU TUTUCU KONTROL UYARISI"
+
+msgid "EXCESSIVE CO WARNING"
+msgstr "FAZLA CO UYARISI"
+
+#. ------------------------------------------------------------------
+#. Popup Messages for Alarms & Warnings (Maxlen=26)
+msgid "HIGH TOXIC GAS"
+msgstr "YÜKSEK ZEHiRLi GAZ"
+
+msgid "BATTERY LOW"
+msgstr "DÜsÜK PÍL"
+
+msgid "BATTERY DEAD"
+msgstr "BÍTÍK PÍL"
+
+msgid "CHECK WATERTRAP"
+msgstr "SUTUTUCU KONTROL"
+
+msgid "LOW GAS FLOW"
+msgstr "DÜsÜK AKIs"
+
+msgid "PUMP OFF"
+msgstr "POMPA KAPALI"
+
+msgid "PUMP MOTOR FAULT"
+msgstr "POMPA MOTOR ARIZA"
+
+msgid "PUMP BLOCKED"
+msgstr "POMPA TIKALI"
+
+msgid "ACCURACY COULD BE DEGRADED"
+msgstr "HASSASÍYET DEgÍsMÍs OLABÍLÍR"
+
+msgid "ERASING, PLEASE WAIT"
+msgstr "SÍLiYOR, BEKLEYiNiZ"
+
+#. Popup Warning Message on 1-line (Maxlen=16)
+msgid "ZERO REQUIRED"
+msgstr "SIFIRLAMA GEREKiYOR"
+
+msgid "ZERO OVERDUE"
+msgstr "SIFIRLAMA SÜRE GEÇTi"
+
+msgid "FUNCTION LOCKED"
+msgstr "FONKSÍYON KiLiTLi"
+
+#. Pressure Zero Success Messages. Split over 2-lines (Maxlen=32)
+msgid "PRESSURE ZERO FAILED"
+msgstr "BASINC SIFIRLAMA YAPILAMADI"
+
+msgid "PRESSURE ZERO SUCCESS"
+msgstr "BASINC SIFIRLAMA BASARILI"
+
+#.
+#. PRESS ENTER TO ... MESSAGES (Maxlen=32)
+#. ------------------------------------------------------------------
+msgid "Press enter to abort"
+msgstr "Durdurmak icin enter'e basin"
+
+msgid "Press enter to continue"
+msgstr "Devam etmek için enter'e basin"
+
+msgid "Press enter to view"
+msgstr "Görmek için enter'e basin"
+
+msgid "Press enter to calibrate"
+msgstr "Kalibre etmek için enter'e basin"
+
+msgid "Press enter when stable"
+msgstr "Stabil olunca enter'e basin"
+
+#. ------------------------------------------------------------------
+#.
+#. BATTERY CHARGE MESSAGES
+#. ------------------------------------------------------------------
+#. TITLE (Animated Charge Screen) (Maxlen=23)
+msgid "BATTERY CHARGED"
+msgstr "PÍL DOLDU"
+
+msgid "BATTERY CHARGING"
+msgstr "PÍL sARJ OLUYOR"
+
+msgid "CHARGING FAULT"
+msgstr "sARJ HATASI"
+
+#. Instruction Mesage (Maxlen=36)
+msgid "Disconnect Charger"
+msgstr "sarj aletini çikarin"
+
+#. The Final Goodbye (Maxlen=13)
+msgid "GOODBYE"
+msgstr "GÜLE GÜLE"
+
+#.
+#. Service Welcome Message.
+#. ------------------------------------------------------------------
+msgid "KANE CARE SERVICE"
+msgstr "KANE SERViS"
+
+msgid "For KANE CARE"
+msgstr "KANE Servis icin"
+
+msgid "BRIGON TRUST SERVICE"
+msgstr ""
+
+msgid "For BRIGON TRUST"
+msgstr ""
+
+msgid "Service & Recertification"
+msgstr "Servis&Seertifikalandirma"
+
+#.
+#. German Test Lab Menu Strings
+#. ------------------------------------------------------------------
+msgid "LAB ID"
+msgstr ""
+
+msgid "Date (MMYY)"
+msgstr ""
+
+#.
+#. Service Menu Strings (These Messages need NOT to be translated).
+#. ------------------------------------------------------------------
+msgid "Calibrate Analyser"
+msgstr "Kalibrasyon yapin"
+
+msgid "Factory Setup"
+msgstr "Fabrika Ayarlari"
+
+msgid "Sensor Management"
+msgstr "Sensörler"
+
+msgid "EEPROM Management"
+msgstr "EEPROM"
+
+msgid "Set Install Mode"
+msgstr "Kurulum Modunu Gir"
+
+msgid "Diagnostic Info"
+msgstr "Teshis Bilgisi"
+
+#. ------------------------------------------------------------------
+msgid "Pump Tests"
+msgstr "Pompa testleri"
+
+msgid "Flow & Vacuum Test"
+msgstr "akis&vakum testi"
+
+msgid "Purge Pump Test"
+msgstr "Harici Hava Pompasi Testi"
+
+msgid "Pump Cold Test"
+msgstr "Pompa Sogukluk Testi"
+
+msgid "Calibrate Pump Current"
+msgstr "Pompa Akimi Kalibrasyonu"
+
+#. ------------------------------------------------------------------
+msgid "Set Serial Number"
+msgstr "Seri No Girin"
+
+msgid "Set Bluetooth Module"
+msgstr "Bluetooth Modülünü Ayarla"
+
+msgid "Set Pump Type"
+msgstr "Pompa Tipi Girin"
+
+msgid "Set Purge Pump"
+msgstr "Harici Hava Pompasi Ayari"
+
+#. ------------------------------------------------------------------
+msgid "Calibrate On Gas"
+msgstr "Gazli Kalibrasyon"
+
+msgid "Calibrate T1 & T2"
+msgstr "T1&T2 kalibrasyonu"
+
+msgid "Calibrate Pressure Zero"
+msgstr "Sifir Hava Kalibrasyonu"
+
+msgid "Calibrate Pressure Span"
+msgstr "Basinç Kalibrasyonu"
+
+msgid "Set ReCalibration Date"
+msgstr "Kalibrasyon Tarihi Gir"
+
+#. ------------------------------------------------------------------
+msgid "Span"
+msgstr "Span"
+
+msgid "Zero"
+msgstr "Sifir"
+
+msgid "Cal"
+msgstr "Kal"
+
+msgid "DIAG:"
+msgstr "TESH:"
+
+msgid "Check Accuracy"
+msgstr "HAssasiyeti Kontrol et"
+
+msgid "Calibrate E/C Zero on AIR"
+msgstr "E/C SIFIR Hava Kalibrasyonu"
+
+msgid "Calibrate E/C Zero on N2"
+msgstr "E/C N2 Sifirlama"
+
+msgid "Calibrate O2 Zero on CO"
+msgstr "CO Sensör O2 Sifirlama"
+
+msgid "Calibrate O2 Zero on N2"
+msgstr "N2 Sensör O2 Sifirlama"
+
+msgid "Calibrate O2 Span"
+msgstr "O2 Span Ayari"
+
+msgid "Calibrate CO Span"
+msgstr "CO Span Ayari"
+
+msgid "Calibrate H2 Span"
+msgstr "H2 Span Ayari"
+
+msgid "Calibrate NO Span"
+msgstr "NO Span Ayari"
+
+msgid "Calibrate NO2 Span"
+msgstr "NO2 Span Ayari"
+
+msgid "Calibrate SO2 Span"
+msgstr "SO2 Span ayari"
+
+msgid "Calibrate H2S Span"
+msgstr "H2S Span Ayari"
+
+msgid "Calibrate CO2 Span"
+msgstr "CO2 Span Ayari"
+
+#, fuzzy
+msgid "Set Calibration Point"
+msgstr "Kalibrasyon Tarihi Gir"
+
+msgid "Calibrate IR Bench"
+msgstr "Infrared Modül Kalibrasyonu"
+
+msgid "Calibrate IR Bench Zero"
+msgstr "Infrared Modül Sifirlama Kalibrasyonu"
+
+msgid "Calibrate IR Bench Span"
+msgstr "Infrared Modül Span Kalibrasyonu"
+
+msgid "Set AutoMix CO"
+msgstr "CO Otomatik Karisim Ayari"
+
+msgid "Set AutoMix HC"
+msgstr "HC Otomatik Karisim Ayari"
+
+msgid "Set AutoMix CO2"
+msgstr "CO2 Otomatik Karisim Ayari"
+
+#. ------------------------------------------------------------------
+msgid "Load Defaults"
+msgstr "Varsayilanlari Yükle"
+
+msgid "Perform EEPROM Test"
+msgstr "EEPROM Testi Yap"
+
+#~ msgid "EffC"
+#~ msgstr "VerH"
+
+#~ msgid "Effs"
+#~ msgstr "Verh"
+
+#~ msgid "Efft"
+#~ msgstr "VErs"
+
+#~ msgid "Et"
+#~ msgstr "Vs"
